@@ -1,26 +1,81 @@
 {
   "users": [],
   "posts": [
-    { 
-        "id": 1, "title": "json-server0915", "author": "typicode" 
+    {
+      "id": 1,
+      "title": "json-server0915",
+      "author": "typicode"
     },
-    { 
-        "id": 2, "title": "json-server0224", "author": "tiger" 
+    {
+      "id": 2,
+      "title": "json-server0224",
+      "author": "tiger"
     },
-    { 
-        "id": 3, "title": "json-server0224", "author": "cat" 
+    {
+      "id": 3,
+      "title": "json-server0224",
+      "author": "cat"
     }
-],
+  ],
   "comments": [
-    { 
-        "id": 1, "body": "some comment", "postId": 1 
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
-    { 
-        "id": 2, "body": "some comment", "postId": 3 
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 3
     }
-],
-  "profile": { 
-    "name": "typicode" 
-},
-  "products":{}
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "productsData": {
+    "success": true,
+    "products": [
+      {
+        "category": "嘉義",
+        "tag_1": "雙日遊",
+        "tag_2": "鐵道之旅",
+        "day_num": 2,
+        "itinerary_data": [
+          {
+            "first_day_title": "第一天",
+            "itinerary_first_day_am_title": "阿里山森林鐵路",
+            "itinerary_first_day_am_content": "保存和展示著阿里山森林鐵路的古董火車和相關設施。園區周圍環繞著美麗的自然景色",
+            "itinerary_first_day_pm_title": "阿里山森林遊樂園",
+            "itinerary_first_day_pm_content": "相傳於250年以前，有一位名為阿巴里的鄒族酋長曾隻身來此打獵，滿載而歸後，常帶族人來此，族人為感念他，便以其名為此命名。"
+          },
+          {
+            "second_day_title": "第二天",
+            "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
+            "itinerary_second_day_am_content": "阿里山國家風景區的觸口遊客中心是位於台灣的一個重要旅遊景點。這個中心提供旅遊資訊、導覽服務，周圍環繞著壯麗的自然景觀，包括森林、山脈和溪流。",
+            "itinerary_second_day_pm_title": "奮起湖風景區",
+            "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
+          },
+          {
+            "third_day_title": "",
+            "itinerary_third_day_am_title": "",
+            "itinerary_third_day_am_content": "",
+            "itinerary_third_day_pm_title": "",
+            "itinerary_third_day_pm_content": ""
+          }
+        ],
+        "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
+        "itinerary_description": "",
+        "id": "-c35c4Q9gWLGb7p4aWAM4",
+        "is_enabled": 1,
+        "origin_price": 5000,
+        "price": 4800,
+        "title": "阿里山芬多精之雙日遊",
+        "unit": "套",
+        "num": 1,
+        "imageUrl": "",
+        "imagesUrl": []
+      }
+    ],
+    "messages": []
+  }
 }
