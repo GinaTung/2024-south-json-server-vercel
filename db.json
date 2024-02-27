@@ -1,5 +1,5 @@
 {
-  "users": [ ],
+  "users": [],
   "posts": [
     {
       "id": 1,
@@ -32,6 +32,28 @@
   "profile": {
     "name": "typicode"
   },
+  "attractions": [
+    {
+      "category": "衣服3",
+      "content": "這是內容",
+      "description": "Sit down please 名設計師設計",
+      "id": "-L9tH8jxVb2Ka_DYPwng",
+      "is_enabled": 1,
+      "num": 1,
+      "origin_price": 500,
+      "price": 600,
+      "title": "[賣]動物園造型衣服3",
+      "unit": "個",
+      "imageUrl": "主圖網址",
+      "imagesUrl": [
+        "圖片網址一",
+        "圖片網址二",
+        "圖片網址三",
+        "圖片網址四",
+        "圖片網址五"
+      ]
+    }
+  ],
   "products": [
     {
       "category": "嘉義",
@@ -68,47 +90,9 @@
       "unit": "套",
       "num": 1,
       "imageUrl": "./img/pic-tree.jpg",
-      "imagesUrl": []
-    },
-    {
-      "category": "嘉義",
-      "tag_1": "雙日遊",
-      "tag_2": "鐵道之旅",
-      "day_num": 2,
-      "itinerary_data": [
-        {
-          "first_day_title": "第一天",
-          "itinerary_first_day_am_title": "阿里山森林鐵路",
-          "itinerary_first_day_am_content": "保存和展示著阿里山森林鐵路的古董火車和相關設施。園區周圍環繞著美麗的自然景色",
-          "itinerary_first_day_pm_title": "阿里山森林遊樂園",
-          "itinerary_first_day_pm_content": "相傳於250年以前，有一位名為阿巴里的鄒族酋長曾隻身來此打獵，滿載而歸後，常帶族人來此，族人為感念他，便以其名為此命名。"
-        },
-        {
-          "second_day_title": "第二天",
-          "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
-          "itinerary_second_day_am_content": "阿里山國家風景區的觸口遊客中心是位於台灣的一個重要旅遊景點。這個中心提供旅遊資訊、導覽服務，周圍環繞著壯麗的自然景觀，包括森林、山脈和溪流。",
-          "itinerary_second_day_pm_title": "奮起湖風景區",
-          "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
-        },
-        {
-          "third_day_title": "",
-          "itinerary_third_day_am_title": "",
-          "itinerary_third_day_am_content": "",
-          "itinerary_third_day_pm_title": "",
-          "itinerary_third_day_pm_content": ""
-        }
-      ],
-      "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
-      "itinerary_description": "",
-      "is_enabled": 1,
-      "origin_price": 5000,
-      "price": 4800,
-      "title": "阿里山芬多精之雙日遊",
-      "unit": "套",
-      "num": 1,
-      "imageUrl": "",
       "imagesUrl": [],
-      "id": "zTkWt7v"
+      "description": "Day1 阿里山森林鐵路+阿里山森林遊樂園\nDay2 阿里山國家風景區-觸口遊客中心+奮起湖風景區",
+      "content": "Day1 阿里山森林鐵路+阿里山森林遊樂園\nDay2 阿里山國家風景區-觸口遊客中心+奮起湖風景區"
     },
     {
       "itinerary_data": [
@@ -173,8 +157,12 @@
         }
       ],
       "imagesUrl": [],
-      "title": "testset",
-      "id": "HJaIBxf"
+      "title": "太平雲梯‧太平老街‧歐式城堡一日遊",
+      "id": "HJaIBxf",
+      "category": "嘉義",
+      "unit": "套",
+      "day_num": 1,
+      "tag_1": "一日遊"
     },
     {
       "itinerary_data": [
@@ -201,8 +189,114 @@
         }
       ],
       "imagesUrl": [],
-      "title": "teststttt",
-      "id": "2Ss0Yws"
+      "title": "梅山‧圓潭生態園區‧太興飛瀑步道‧品茶體驗一日遊",
+      "id": "2Ss0Yws",
+      "category": "嘉義",
+      "unit": "套",
+      "tag_1": "一日遊"
+    },
+    {
+      "itinerary_data": [
+        {
+          "first_day_title": "",
+          "itinerary_first_day_am_title": "",
+          "itinerary_first_day_am_content": "",
+          "itinerary_first_day_pm_title": "",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
+      "imagesUrl": [],
+      "title": "歷史探訪之旅一日遊",
+      "category": "台南",
+      "unit": "套",
+      "day_num": 1,
+      "tag_1": "一日遊",
+      "id": "QCIAtmL"
+    },
+    {
+      "itinerary_data": [
+        {
+          "first_day_title": "",
+          "itinerary_first_day_am_title": "",
+          "itinerary_first_day_am_content": "",
+          "itinerary_first_day_pm_title": "",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
+      "imagesUrl": [],
+      "title": "綠色隧道一日遊",
+      "category": "台南",
+      "unit": "套",
+      "id": "xoGgJIk",
+      "tag_1": "一日遊"
+    },
+    {
+      "imagesUrl": [],
+      "title": "古早美食遊雙日遊",
+      "category": "台南",
+      "unit": "套",
+      "tag_1": "雙日遊",
+      "id": "GDwTM-i"
+    },
+    {
+      "imagesUrl": [],
+      "title": "漫遊蓮潭風光一日遊",
+      "category": "高雄",
+      "tag_1": "一日遊",
+      "unit": "套",
+      "id": "bxCCb6z"
+    },
+    {
+      "imagesUrl": [],
+      "title": "海陸體驗，玩食高雄雙日遊",
+      "tag_1": "雙日遊",
+      "category": "高雄",
+      "unit": "套",
+      "id": "ymbfYtq"
+    },
+    {
+      "imagesUrl": [],
+      "title": "文化藝術之旅雙日遊",
+      "category": "高雄",
+      "tag_1": "雙日遊",
+      "unit": "套",
+      "id": "vjHdmEx"
+    },
+    {
+      "imagesUrl": [],
+      "title": "[限時活動]2024 Kaohsiung Wonderland 冬日遊樂園",
+      "category": "高雄",
+      "tag_1": "限時活動",
+      "unit": "套",
+      "id": "fsfguEU"
     }
   ]
 }
