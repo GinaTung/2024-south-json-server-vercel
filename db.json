@@ -91,8 +91,8 @@
       "num": 1,
       "imageUrl": "./img/pic-tree.jpg",
       "imagesUrl": [],
-      "description": "Day1 阿里山森林鐵路+阿里山森林遊樂園\nDay2 阿里山國家風景區-觸口遊客中心+奮起湖風景區",
-      "content": "Day1 阿里山森林鐵路+阿里山森林遊樂園\nDay2 阿里山國家風景區-觸口遊客中心+奮起湖風景區"
+      "description": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區",
+      "content": ""
     },
     {
       "itinerary_data": [
@@ -128,9 +128,10 @@
       "origin_price": 1000,
       "price": 888,
       "day_num": 1,
-      "content": "壽山動物園\n旗津黃金海韻-海珍珠",
+      "content": "",
       "is_enabled": 1,
-      "id": "KvBuohr"
+      "id": "KvBuohr",
+      "description": "Day1 早上 壽山動物園;Day1 下午 旗津黃金海韻-海珍珠"
     },
     {
       "itinerary_data": [
@@ -259,6 +260,29 @@
       "tag_1": "一日遊"
     },
     {
+      "itinerary_data": [
+        {
+          "first_day_title": "",
+          "itinerary_first_day_am_title": "fdgdg",
+          "itinerary_first_day_am_content": "",
+          "itinerary_first_day_pm_title": "",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
       "imagesUrl": [],
       "title": "古早美食遊雙日遊",
       "category": "台南",
@@ -267,6 +291,29 @@
       "id": "GDwTM-i"
     },
     {
+      "itinerary_data": [
+        {
+          "first_day_title": "",
+          "itinerary_first_day_am_title": "fdgdg",
+          "itinerary_first_day_am_content": "",
+          "itinerary_first_day_pm_title": "",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
       "imagesUrl": [],
       "title": "漫遊蓮潭風光一日遊",
       "category": "高雄",
@@ -275,6 +322,29 @@
       "id": "bxCCb6z"
     },
     {
+      "itinerary_data": [
+        {
+          "first_day_title": "",
+          "itinerary_first_day_am_title": "fdgdg",
+          "itinerary_first_day_am_content": "",
+          "itinerary_first_day_pm_title": "",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
       "imagesUrl": [],
       "title": "海陸體驗，玩食高雄雙日遊",
       "tag_1": "雙日遊",
@@ -283,6 +353,29 @@
       "id": "ymbfYtq"
     },
     {
+      "itinerary_data": [
+        {
+          "first_day_title": "",
+          "itinerary_first_day_am_title": "fdgdg",
+          "itinerary_first_day_am_content": "",
+          "itinerary_first_day_pm_title": "",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
       "imagesUrl": [],
       "title": "文化藝術之旅雙日遊",
       "category": "高雄",
@@ -291,6 +384,29 @@
       "id": "vjHdmEx"
     },
     {
+      "itinerary_data": [
+        {
+          "first_day_title": "",
+          "itinerary_first_day_am_title": "fdgdg",
+          "itinerary_first_day_am_content": "",
+          "itinerary_first_day_pm_title": "",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
       "imagesUrl": [],
       "title": "[限時活動]2024 Kaohsiung Wonderland 冬日遊樂園",
       "category": "高雄",
