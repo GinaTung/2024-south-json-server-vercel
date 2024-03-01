@@ -62,18 +62,21 @@
       "day_num": 2,
       "itinerary_data": [
         {
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "阿里山森林鐵路",
-          "itinerary_first_day_am_content": "保存和展示著阿里山森林鐵路的古董火車和相關設施。園區周圍環繞著美麗的自然景色",
+          "itinerary_first_day_am_content": "全線自海拔30公尺的嘉義，一路爬升至2,216公尺高的阿里山，全程經過47個隧道、72座橋，沿途可欣賞熱、暖、溫等不同森林帶之植物種類變化與美麗的山脈、溪谷。",
           "itinerary_first_day_pm_title": "阿里山森林遊樂園",
-          "itinerary_first_day_pm_content": "相傳於250年以前，有一位名為阿巴里的鄒族酋長曾隻身來此打獵，滿載而歸後，常帶族人來此，族人為感念他，便以其名為此命名。"
+          "itinerary_first_day_pm_content": "阿里山共由十八座高山組成，屬於玉山山脈的支脈，隔同富溪與玉山主峰相望，現在新中橫公路已將阿里山與玉山風景區串連起來。阿里山森林遊樂區海拔高度2,216公尺，四周高山環列，氣候涼爽，以日出、雲海、晚霞、森林、登山森林鐵路並列為阿里山五奇，聞名國際。而鄒族原住民人文資源更增其觀光魅力。"
         },
         {
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
-          "itinerary_second_day_am_content": "阿里山國家風景區的觸口遊客中心是位於台灣的一個重要旅遊景點。這個中心提供旅遊資訊、導覽服務，周圍環繞著壯麗的自然景觀，包括森林、山脈和溪流。",
+          "itinerary_second_day_am_content": "因應日漸成熟之旅遊風潮與國內旅遊市場的廣大需求，基於帶動大阿里山地區的觀光發展及資源保育需要，「阿里山國家風景區管理處成立並專責執行觀光事業規劃建設與經營管理工作，俾以服務大阿里山地區之遊客人潮，並希望能藉由遊憩品質提升，協助地方觀光產業的蓬勃發展。",
           "itinerary_second_day_pm_title": "奮起湖風景區",
           "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
         },
         {
+          "third_day_title": "第三天",
           "itinerary_third_day_am_title": "",
           "itinerary_third_day_am_content": "",
           "itinerary_third_day_pm_title": "",
@@ -91,8 +94,8 @@
       "num": 1,
       "imageUrl": "./img/pic-tree.jpg",
       "imagesUrl": [],
-      "description": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區",
-      "content": ""
+      "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
+      "content": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區"
     },
     {
       "itinerary_data": [
