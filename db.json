@@ -109,7 +109,7 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "壽山動物園",
           "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
           "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
@@ -154,7 +154,7 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "國立故宮博物院南部院區",
           "itinerary_first_day_am_content": "博物館建築以中國水墨畫濃墨、飛白與渲染三種技法，形成實量體展示空間及文物庫房、虛量體公共接待空間與穿透連接空間，象徵著中華、印度與波斯三股文化交織出悠遠流長多元的亞洲文明，而其建築造型由兩個流線型量體交織而成，作為「龍」、「象」、「馬」文化象徵的隱喻。為呼應主體建築的造型，銜接建築量體動勢，景觀橋的結構形式與造型採用書法中草書的形式，以富韻律的動態氣勢引導入館人群接近主體建築，並提供參覽遊客最獨特與舒適的步行經驗。",
           "itinerary_first_day_pm_title": "高跟鞋教堂",
@@ -199,7 +199,7 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "嘉義公園",
           "itinerary_first_day_am_content": "嘉義公園位在嘉義市東郊，始建之初，依山仔頂山勢開闢園地，後來又拓寬東西邊的空地，築橋修路，計公園面積約268,000多平方公尺，園內古木參天，涼亭水榭，假山魚池，曲徑通幽，因為利用自然山水，風景雅緻，可謂逍遙勝地。\n\n公園內有忠烈祠、射日塔、福康安紀功碑、丙午震災紀念碑、十二門古砲、陳澄波畫架、牆之道、一江山紀念碑、孔廟以及國寶級的阿里山森林鐵道21號蒸汽火車頭等史蹟，為民眾休閒好去處。此外，位在公園東北隅的林業、農業兩試驗分所，場中遍植多種熱帶植物，濃蔭逐暑，綠葉搖風，亦值得順道一遊。",
           "itinerary_first_day_pm_title": "嘉義樹木園",
@@ -244,14 +244,14 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "安平古堡",
           "itinerary_first_day_am_content": "荷蘭人於西元1624年，在安平建造了臺灣第一座城堡「熱蘭遮城」，也就是現在的安平古堡，這裡曾是荷蘭人統治的中樞，更是對外貿易的總樞紐，原本的建築格局分為方形內城與長方形外城。西元1661年，鄭成功來台驅荷後，將此地改名為安平，故熱蘭遮城也稱為「王城」或「臺灣城」，俗稱安平古堡，是臺灣最早的一座城池。",
           "itinerary_first_day_pm_title": "億載金城",
           "itinerary_first_day_pm_content": "億載金城古稱為「安平大砲臺」或「二鯤鯓砲臺」。西元1874年沈葆楨先抵安平，認為應建立大砲臺以保衛府城，因此，西元1876年由法國工程師所設計完成的全臺第一座西式砲臺終於完成，也是全臺第一座配備英國阿姆斯壯大砲的砲臺，臺灣的海防軍事也因此而邁向近代化的一大步。建築形制上，億載金城屬於西洋稜堡式的方形砲臺，四角凸出，中央內凹。環繞砲臺並有護城河，砲臺上分置大、小砲，城堡中央則為操練場；形制完善、規模宏大，加上砲臺威力強大，億載金城可說是臺灣南北砲臺中，劃時代的重要里程碑。"
         },
         {
-          "second_day_title": "",
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "",
           "itinerary_second_day_am_content": "",
           "itinerary_second_day_pm_title": "",
@@ -286,14 +286,14 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "四草綠色隧道",
           "itinerary_first_day_am_content": "四草綠色隧道的航行路線分成兩條：紅樹林隧道及四草台江之旅，在上竹筏之前，每位乘客都需要穿上救生衣，再領取遮陽和保護頭部的斗笠，準備妥當後就可以登上竹筏，開啟這場綠色隧道探險啦！隧道兩旁不時有鷺鷥、夜鷺或其他鳥類低空飛過，四草大眾廟紅樹林保護區林相優美，擁有五梨跤、水筆仔、欖李、海茄苳四種紅樹林。船上的解說員也會沿途細說當地生態，遊客也亦可透過望遠鏡觀察紅樹林下的招潮蟹、彈塗魚等生物，是生態旅遊的最佳場域，亦是攝影師最愛捕捉的自然美景。",
           "itinerary_first_day_pm_title": "奇美博物館",
           "itinerary_first_day_pm_content": "一座綜合性的博物館，擁有西洋藝術、樂器、兵器與動物標本等多元的典藏品，館內展廳包括藝術廳、樂器廳、兵器廳、動物廳、羅丹廳、雕塑大道以及特展廳等等，提供文明之奇與藝術之美；館外結合西洋神話元素打造特色景點，寄望創建一處大眾共享共賞的園地，成為人們的心靈避風港。"
         },
         {
-          "second_day_title": "",
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "",
           "itinerary_second_day_am_content": "",
           "itinerary_second_day_pm_title": "",
@@ -328,14 +328,14 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "北門遊客中心",
           "itinerary_first_day_am_content": "雲嘉南濱海國家風景區北門遊客中心是由北門洗滌鹽工廠舊建物群中的西南側倉庫群所改建，外觀仍保留著原工廠山牆斜屋頂造型。\n\n全館佈設由北而南以地理分區概念介紹雲嘉南濱海國家風景區的景點，並整合區內「鹽業歷史」、「溼地生態」、「宗教人文」、「地方產業」與「文學藝術」等觀光資源，規劃主題區介紹與多媒體互動區。",
           "itinerary_first_day_pm_title": "水晶教堂",
           "itinerary_first_day_pm_content": "水晶教堂位於「豬屠溝」源頭北畔，此地昔為洲北鹽田與中洲鹽田交界。西濱空曠平坦，早年以鹽田為最大地景，突出於地表者為鹽堆，水晶教堂即以鹽堆之大堆連結小堆為造形意象，以鹽的白色為主色調，並取結晶鹽的晶瑩剔透為其發想，結合曾經撫慰無數烏腳病患的教會意念，乃有此名。"
         },
         {
-          "second_day_title": "",
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "七股潟湖",
           "itinerary_second_day_am_content": "七股漁民口中的內海仔，指的就是七股潟湖，由於曾文溪的四次改道而造成今日的潟湖景觀，這是目前臺灣最大的一個潟湖。此處的生態資源非常豐富，單單螃蟹就有三十種以上，魚蝦貝類更多達兩百種以上，是本地兩萬居民生計的所在。附近的龍山村大街上到處可以看到海產和鮮蚵的料理，喜歡海鮮的人不能錯過。另外，在潟湖區鳥類景觀豐富，也可安排賞鳥、遊紅樹林和賞蟹的生態之旅。",
           "itinerary_second_day_pm_title": "七股鹽山",
@@ -372,14 +372,14 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "蓮池潭－龍虎塔",
           "itinerary_first_day_am_content": "位於左營區的蓮池潭，南鄰龜山、北倚半屏山，清朝時期因潭中遍植荷花，每逢夏季清香四溢，素有「泮水荷香」美譽，成為清代的鳳山八景之一；蓮池潭畔的指標性建築「龍虎塔」，讓人感受到東方宗教文化的震撼，曾被美國有線電視CNN特別推薦，是高雄市最具傳統宗教色彩的風景區之一。\n塔高七層，以龍、虎兩口為入 、出口，塔身連接九曲橋。參觀龍虎塔有規矩，從龍口進， 虎口出，就能趨吉避凶。",
           "itinerary_first_day_pm_title": "啟明堂",
           "itinerary_first_day_pm_content": "啟明堂就是武廟，為儒道釋三教合一的儒宗神教，奉祀三教聖人，主祀文武二聖，配祀岳飛、鄭成功。創建於光緒25年(西元1899年)於蓮池潭的西南方，外觀壯麗堂皇採東方宮殿式建築，每逢諸神誕辰之日，信眾們會作醮迎神隆重敬拜，是地方上重要慶典之一。"
         },
         {
-          "second_day_title": "",
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "",
           "itinerary_second_day_am_content": "",
           "itinerary_second_day_pm_title": "",
@@ -414,14 +414,14 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "大崗山自然生態區",
           "itinerary_first_day_am_content": "生態園區面積八十公頃，園區中有多條曲折通幽的林蔭步道連結，以造形各異的美麗涼亭、平台提供遊客休憩賞景。挺拔的綠竹、相思樹林、羊蹄甲、櫻花道、黃金風鈴木…在步道旁依四季時序開放，沿途觀賞大崗山生態之美，荷花點點的生態池則是觀察鳥類及水中生物最佳的地點。",
           "itinerary_first_day_pm_title": "石母乳與一線天",
           "itinerary_first_day_pm_content": "山區的石灰岩壁千百年來經過岩融過程，岩壁的紋理如同飛瀑流動，景緻奇幻，碧水洞後的石灰岩沈積物經過漫長歲月形成鐘乳石，終年滴水不斷的奇特景觀被當地人稱之為石母乳。\n\n走過石母乳旁的山中棧道，像劈裂天地般的高達二至三公尺的峽谷聳立眼前，頗有大自然開天闢地的壯闊感。相傳在明朝年間大崗山忽然發出「山鳴」，山脊自南向北龜裂，形成這道長約百米的山溝，由於入內仰望可見天空自成一線，故名「一線天」。"
         },
         {
-          "second_day_title": "",
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "田寮月世界",
           "itinerary_second_day_am_content": "田寮「月世界」特殊景觀在地理學上稱為「惡地」，是由於地殼的「回春作用」，經年累月的經由雨水與河水強烈侵蝕，將泥沙堆積在泥岩上，地層變動後，泥沙更與泥岩混合再經由風化、沉積作用，形成今日地貌，僅適於耐旱、耐鹽的淺根植物（如：箭竹）、濱海植物生長。",
           "itinerary_second_day_pm_title": "泥火山小滾水奇景",
@@ -458,14 +458,14 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "鼓山魚市場",
           "itinerary_first_day_am_content": "鼓山魚市場曾經為高雄市第一座現代化的魚市場，見證哈瑪星最繁榮的時刻，隨著漁業重心從哈瑪星漸漸轉移至前鎮漁港而沒落，為了重現昔日風華，鼓山魚市場歷經整修、調整營運方向後重新啟動，館內不僅擁有全台特色水產、農漁伴手禮，戶外則設有景觀咖啡等特色店家，創造富有歷史意義的高雄海景第一排。",
           "itinerary_first_day_pm_title": "大港橋",
           "itinerary_first_day_pm_content": "駁二藝術特區碼頭旁的大港橋，是全臺首座水平旋轉景觀橋樑，也是亞洲最長的跨港旋轉橋，可在3分鐘內完成水平運轉，每日下午3點進行開合秀，每逢週五六日晚間7點加開1場，橋樑可供行人及自行車牽行，串連駁二藝術特區與棧貳庫2處熱門景點，是目前最新潮的旅遊路線。"
         },
         {
-          "second_day_title": "",
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "",
           "itinerary_second_day_am_content": "",
           "itinerary_second_day_pm_title": "",
@@ -500,14 +500,14 @@
     {
       "itinerary_data": [
         {
-          "first_day_title": "",
+          "first_day_title": "第一天",
           "itinerary_first_day_am_title": "黃色小鴨",
           "itinerary_first_day_am_content": "創作者霍夫曼表示，黃色小鴨創作靈感來自小時候在浴缸裡玩耍的玩具。他把小鴨放大，希望能勾起人們童年時期的快樂回憶，把療癒人心的氛圍傳遞出去。\n2013年18米高的黃色小鴨首度來高雄，帶給高雄市民、台灣人民滿滿的幸福喜悅，整個展期吸引超過390萬人次參觀。\n希望你能感受黃色小鴨睽違十年再登高雄港灣的感動，並見證高雄10年的蛻變。",
           "itinerary_first_day_pm_title": "碼頭樂園",
           "itinerary_first_day_pm_content": "2024冬日遊樂園憑「遊園券」遊玩遊樂設施\n🔸樂園地點：高雄港16-17號碼頭（海邊路與永平路交叉口）\n🔸活動日期：113年1月27日至2月25日（除夕休息）\n🔸每場人次：2000人\n🔸遊園券發放時間：當日活動開始前1小時，於活動現場發放當日遊園券。"
         },
         {
-          "second_day_title": "",
+          "second_day_title": "第二天",
           "itinerary_second_day_am_title": "",
           "itinerary_second_day_am_content": "",
           "itinerary_second_day_pm_title": "",
