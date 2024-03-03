@@ -74,13 +74,6 @@
           "itinerary_second_day_am_content": "因應日漸成熟之旅遊風潮與國內旅遊市場的廣大需求，基於帶動大阿里山地區的觀光發展及資源保育需要，「阿里山國家風景區管理處成立並專責執行觀光事業規劃建設與經營管理工作，俾以服務大阿里山地區之遊客人潮，並希望能藉由遊憩品質提升，協助地方觀光產業的蓬勃發展。",
           "itinerary_second_day_pm_title": "奮起湖風景區",
           "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
-        },
-        {
-          "third_day_title": "第三天",
-          "itinerary_third_day_am_title": "",
-          "itinerary_third_day_am_content": "",
-          "itinerary_third_day_pm_title": "",
-          "itinerary_third_day_pm_content": ""
         }
       ],
       "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
@@ -114,20 +107,6 @@
           "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
           "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
           "itinerary_first_day_pm_content": "高10公尺、寬16公尺、深達9公尺，是由藝術家林舜龍與法國聲音藝術家葉澎生攜手耗時6年打造而成。其以金色為主色，半圓形海貝殼為造型，藉由不同角度的陽光照射，展現深淺不一的黃金色澤，不僅是旗津海岸公園的地標之一，更是亞洲最大的貝殼裝置藝術。"
-        },
-        {
-          "second_day_title": "",
-          "itinerary_second_day_am_title": "",
-          "itinerary_second_day_am_content": "",
-          "itinerary_second_day_pm_title": "",
-          "itinerary_second_day_pm_content": ""
-        },
-        {
-          "third_day_title": "",
-          "itinerary_third_day_am_title": "",
-          "itinerary_third_day_am_content": "",
-          "itinerary_third_day_pm_title": "",
-          "itinerary_third_day_pm_content": ""
         }
       ],
       "imageUrl": "./products/zoo.jpg",
@@ -159,20 +138,6 @@
           "itinerary_first_day_am_content": "博物館建築以中國水墨畫濃墨、飛白與渲染三種技法，形成實量體展示空間及文物庫房、虛量體公共接待空間與穿透連接空間，象徵著中華、印度與波斯三股文化交織出悠遠流長多元的亞洲文明，而其建築造型由兩個流線型量體交織而成，作為「龍」、「象」、「馬」文化象徵的隱喻。為呼應主體建築的造型，銜接建築量體動勢，景觀橋的結構形式與造型採用書法中草書的形式，以富韻律的動態氣勢引導入館人群接近主體建築，並提供參覽遊客最獨特與舒適的步行經驗。",
           "itinerary_first_day_pm_title": "高跟鞋教堂",
           "itinerary_first_day_pm_content": "高跟鞋教堂高度約17m，寬度約11m，主結構由1,269根鋼架組成，外表共約320餘片玻璃，造型相當亮麗美觀，其設計與裝設不僅是全臺第一，更是全世界唯一。高跟鞋教堂幸福意象工程施工相當不易，320餘片玻璃大小、安裝角度皆不同，必須克服高跟鞋的形狀及彎曲幅度，故鋼架及玻璃組裝精度要求極高。玻璃高跟鞋象徵「每個小女孩都曾夢想有雙漂亮的高跟鞋，伴著自己走出美麗優雅的人生。」"
-        },
-        {
-          "second_day_title": "",
-          "itinerary_second_day_am_title": "",
-          "itinerary_second_day_am_content": "",
-          "itinerary_second_day_pm_title": "",
-          "itinerary_second_day_pm_content": ""
-        },
-        {
-          "third_day_title": "",
-          "itinerary_third_day_am_title": "",
-          "itinerary_third_day_am_content": "",
-          "itinerary_third_day_pm_title": "",
-          "itinerary_third_day_pm_content": ""
         }
       ],
       "imagesUrl": [
@@ -547,20 +512,20 @@
       "itinerary_data": [
         {
           "first_day_title": "第一天",
-          "itinerary_first_day_am_title": "",
-          "itinerary_first_day_am_content": "",
-          "itinerary_first_day_pm_title": "",
-          "itinerary_first_day_pm_content": ""
+          "itinerary_first_day_am_title": "123",
+          "itinerary_first_day_am_content": "5555",
+          "itinerary_first_day_pm_title": "645656",
+          "itinerary_first_day_pm_content": "9999"
         },
         {
-          "second_day_title": "第二天",
+          "second_day_title": "",
           "itinerary_second_day_am_title": "",
           "itinerary_second_day_am_content": "",
           "itinerary_second_day_pm_title": "",
           "itinerary_second_day_pm_content": ""
         },
         {
-          "third_day_title": "第三天",
+          "third_day_title": "",
           "itinerary_third_day_am_title": "",
           "itinerary_third_day_am_content": "",
           "itinerary_third_day_pm_title": "",
@@ -568,19 +533,36 @@
         }
       ],
       "imagesUrl": [],
-      "title": "testst",
-      "category": "其他",
-      "provideServices": "gsfgfg",
-      "experienceDescription": "tgsrgsd",
-      "otherInformation": "qedfsfs",
-      "commonProblem": "ngfnfnf",
-      "id": "vrKQVw8"
+      "title": "xcvxcvxcv",
+      "id": "AGVIdcj"
     },
     {
-      "itinerary_data": [],
+      "itinerary_data": [
+        {
+          "first_day_title": "dfgdfg",
+          "itinerary_first_day_am_title": "fgfdgd",
+          "itinerary_first_day_am_content": "cbcvbcb",
+          "itinerary_first_day_pm_title": "dgdfdfg",
+          "itinerary_first_day_pm_content": ""
+        },
+        {
+          "second_day_title": "",
+          "itinerary_second_day_am_title": "",
+          "itinerary_second_day_am_content": "",
+          "itinerary_second_day_pm_title": "",
+          "itinerary_second_day_pm_content": ""
+        },
+        {
+          "third_day_title": "",
+          "itinerary_third_day_am_title": "",
+          "itinerary_third_day_am_content": "",
+          "itinerary_third_day_pm_title": "",
+          "itinerary_third_day_pm_content": ""
+        }
+      ],
       "imagesUrl": [],
-      "title": "tgsgsfg",
-      "id": "FLSsKqJ"
+      "title": "tesgsgdfg",
+      "id": "VOZTO6a"
     }
   ]
 }
