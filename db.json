@@ -1,5 +1,22 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$SqZ/iX8jrXqqe1.peIou7uLPhT7rKC6fv0U66Ll36r6m0uCDRYRz.",
+      "name": "TEST",
+      "tel": "07123456",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "email": "T@gmail.com",
+      "password": "$2a$10$9VgbooMcLhr64NMpXRKlue138roPDLk1tKEXseXp3dIAJfo9Yzyn.",
+      "name": "T",
+      "tel": "09123456777",
+      "role": "user",
+      "id": 2
+    }
+  ],
   "posts": [
     {
       "id": 1,
@@ -411,7 +428,7 @@
       "creationDate": "2024-01-27"
     },
     {
-      "itinerary_data": [ ],
+      "itinerary_data": [],
       "imagesUrl": [],
       "title": "xcvxcvxcv",
       "id": "AGVIdcj"
@@ -429,6 +446,23 @@
       "imagesUrl": [],
       "title": "tesgsgdfg",
       "id": "VOZTO6a"
+    }
+  ],
+  "cart": [
+    {
+      "productId": "-c35c4Q9gWLGb7p4aWAM4",
+      "qty": 1,
+      "id": 1,
+      "total": 6380,
+      "final_total": 6380
+    },
+    {
+      "productId": "VOZTO6a",
+      "qty": 1,
+      "total": 6380,
+      "final_total": 6380,
+      "id": 2,
+      "userId": 2
     }
   ]
 }
