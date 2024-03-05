@@ -1,20 +1,20 @@
 {
   "users": [
     {
-      "email": "test@gmail.com",
-      "password": "$2a$10$SqZ/iX8jrXqqe1.peIou7uLPhT7rKC6fv0U66Ll36r6m0uCDRYRz.",
-      "name": "TEST",
-      "tel": "07123456",
-      "role": "user",
-      "id": 1
-    },
-    {
       "email": "T@gmail.com",
       "password": "$2a$10$9VgbooMcLhr64NMpXRKlue138roPDLk1tKEXseXp3dIAJfo9Yzyn.",
       "name": "T",
       "tel": "09123456777",
       "role": "user",
       "id": 2
+    },
+    {
+      "email": "gb2013429@gmail.com",
+      "password": "$2a$10$FuGirP7AEL4p8KWjVDNFn.25PFUmHAUieEPvS4lO8FeUn.24VYEwe",
+      "name": "yuling",
+      "tel": "0912345678",
+      "role": "user",
+      "id": 3
     }
   ],
   "posts": [
@@ -448,21 +448,13 @@
       "id": "VOZTO6a"
     }
   ],
-  "cart": [
+  "carts": [
     {
-      "productId": "-c35c4Q9gWLGb7p4aWAM4",
+      "productId": "fsfguEU",
       "qty": 1,
       "id": 1,
-      "total": 6380,
-      "final_total": 6380
-    },
-    {
-      "productId": "VOZTO6a",
-      "qty": 1,
-      "total": 6380,
-      "final_total": 6380,
-      "id": 2,
-      "userId": 2
+      "total": 1680,
+      "final_total": 1680
     }
   ]
 }
