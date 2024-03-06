@@ -455,22 +455,6 @@
       "id": 1,
       "total": 1680,
       "final_total": 1680
-    },
-    {
-      "data": {
-        "product_id": "-c35c4Q9gWLGb7p4aWAM4",
-        "qty": 6,
-        "total": null
-      },
-      "id": 2
-    },
-    {
-      "data": {
-        "product_id": "HJaIBxf",
-        "qty": 6,
-        "total": 35328
-      },
-      "id": 3
     }
   ],
   "cartsData": [
