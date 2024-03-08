@@ -128,8 +128,8 @@
       ],
       "imageUrl": "./products/zoo.jpg",
       "imagesUrl": [
-        "./img/pic-cijin shells.jpg",
-        "./products/zoo.jpg"
+        "./products/zoo.jpg",
+        "./img/pic-cijin shells.jpg"
       ],
       "title": "旗津踩風一日遊",
       "category": "高雄",
@@ -455,6 +455,16 @@
       "id": 1,
       "total": 1680,
       "final_total": 1680
+    },
+    {
+      "data": {
+        "product_id": "-c35c4Q9gWLGb7p4aWAM4",
+        "qty": 3,
+        "price": 6380,
+        "total": 19140,
+        "cartId": null
+      },
+      "id": 2
     }
   ],
   "cartsData": [
@@ -501,6 +511,31 @@
         }
       ],
       "id": 1
+    }
+  ],
+  "order": [
+    {
+      "user": {
+        "name": "test",
+        "email": "test@gmail.com",
+        "tel": "0912346768",
+        "address": "kaohsiung"
+      },
+      "id": 1
+    },
+    {
+      "orderUser": {
+        "user": {
+          "name": "TEST2",
+          "email": "TEST@gmail.com",
+          "tel": "0912345678",
+          "address": "",
+          "birthday": "2024-03-07",
+          "comment": "",
+          "shippingMethod": "超商取貨"
+        }
+      },
+      "id": 2
     }
   ]
 }
