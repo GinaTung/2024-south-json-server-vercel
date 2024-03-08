@@ -394,7 +394,10 @@
       "origin_price": 3800,
       "price": 3600,
       "day_num": 1,
-      "imageUrl": "./products/pic-museum-tai.jpg"
+      "imageUrl": "./products/pic-museum-tai.jpg",
+      "creationDate": "2024-03-01",
+      "startDate": "2024-03-01",
+      "endDate": "2024-05-01"
     },
     {
       "itinerary_data": [
@@ -424,14 +427,17 @@
       "unit": "套",
       "tag_1": "雙日遊",
       "id": "GDwTM-i",
-      "tag_2": "親子 共遊",
+      "tag_2": "親子共遊",
       "origin_price": 4500,
       "price": 4399,
       "day_num": 2,
       "description": "七股潟湖是臺灣最大的潟湖，生態豐富，有30種以上螃蟹和200種以上魚蝦貝類，是兩萬居民生計所在。潟湖區鳥類景觀豐富，可賞鳥、遊紅樹林和賞蟹。七股鹽山曾為臺灣最大曬鹽場，於2002年結束338年曬鹽歷史，現成為知名觀光據點。",
       "content": "Day1 早上 北門遊客中心;Day1 下午 水晶教堂;\nDay2 早上 七股潟湖;Day2 下午 七股鹽山;",
       "is_enabled": 1,
-      "imageUrl": "./products/pic-lake.jpg"
+      "imageUrl": "./products/pic-lake.jpg",
+      "creationDate": "2024-03-04",
+      "startDate": "2024-03-04",
+      "endDate": "2024-05-08"
     },
     {
       "itinerary_data": [
@@ -496,7 +502,10 @@
       "is_enabled": 1,
       "content": "Day1 早上 大崗山自然生態區;Day1 下午 石母乳與一線天;\nDay2 早上 田寮月世界;Day2 下午 泥火山小滾水奇景;",
       "description": "大崗山生態區面積80公頃，擁有曲折通幽的步道、美麗涼亭、生態池和石母乳景觀。石母乳與一線天展現石灰岩的奇幻紋理，石母乳為終年滴水景觀。大崗山一線天形成於明朝，是壯闊的天然峽谷。田寮月世界為地理學上的「惡地」，由泥沙與泥岩混合而成。從田寮到旗山台28線沿路有大小泥火山，展現間歇性的噴發現象，特殊小地形如大滾水與小滾水。",
-      "imageUrl": "./products/pic-mountain-1.jpg"
+      "imageUrl": "./products/pic-mountain-1.jpg",
+      "creationDate": "2024-03-10",
+      "startDate": "2024-03-10",
+      "endDate": "2024-05-10"
     },
     {
       "itinerary_data": [
@@ -546,7 +555,7 @@
       "tag_1": "限時活動",
       "unit": "套",
       "id": "fsfguEU",
-      "tag_2": "",
+      "tag_2": "親子共遊",
       "day_num": 1,
       "origin_price": 2000,
       "price": 1680,
