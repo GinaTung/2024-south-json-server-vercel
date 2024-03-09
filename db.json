@@ -65,20 +65,19 @@
       "imagesUrl": [
         "./img/pic-church2-2.jpg",
         "./attractions/pic-church-1.jpg",
-        "./attractions/pic-church-2.jpg",
-        "./img/pic-church2.jpg"
+        "./attractions/pic-church-2.jpg"
       ],
       "tag_2": "打卡熱戀",
       "timeOpen": "全天開放;高跟鞋教堂夜間點燈時間;每天18：00 - 21：00",
       "aboutAroductLink": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E5%98%89%E7%BE%A9/%E6%95%85%E5%AE%AE%E5%8D%9A%E7%89%A9%E9%99%A2%E2%80%A7%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82%E4%B8%80%E6%97%A5%E9%81%8A",
-      "tag_1": "拍婚紗"
+      "tag_1": "拍婚紗",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d117193.24393463614!2d120.06636200647246!3d23.37776471853352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x346c282d1d84c23d%3A0x4eff3d0768a027da!2zNjI15ZiJ576p57ij5biD6KKL6Y6u5paw6KW_6LevNeiZnw!3m2!1d23.3777863!2d120.1487636!5e0!3m2!1szh-TW!2stw!4v1709957071689!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
     },
     {
       "imagesUrl": [
         "./img/pic-mesum2.png",
-        "./img/pic-mesum.jpg",
-        "./attractions/pic-mesum2.jpg",
-        "./attractions/pic-mesum3.jpg"
+        "./attractions/pic-mesum3.jpg",
+        "./attractions/pic-mesum2.jpg"
       ],
       "title": "故宮博物院南部院區",
       "category": "嘉義",
@@ -91,12 +90,14 @@
       "id": "B4HtJKG",
       "aboutAroductLink": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E5%98%89%E7%BE%A9/%E6%95%85%E5%AE%AE%E5%8D%9A%E7%89%A9%E9%99%A2%E2%80%A7%E9%AB%98%E8%B7%9F%E9%9E%8B%E6%95%99%E5%A0%82%E4%B8%80%E6%97%A5%E9%81%8A",
       "tag_2": "打卡熱點",
-      "tag_1": "看展覽"
+      "tag_1": "看展覽",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d117108.78085572139!2d120.21031490954385!3d23.47310775110139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x346e9bd42bdda57b%3A0x69196ae48b15b8cb!2zNjEy5ZiJ576p57ij5aSq5L-d5biC5pWF5a6u5aSn6YGTODg46Jmf!3m2!1d23.473129399999998!2d120.2927165!5e0!3m2!1szh-TW!2stw!4v1709962827224!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
     },
     {
       "imagesUrl": [
         "./attractions/pic-oldhouse.jpg",
-        "./attractions/pic-oldhouse2.jpg"
+        "./attractions/pic-oldhouse2.jpg",
+        "./img/attraction5.png"
       ],
       "title": "安平古堡",
       "category": "台南",
@@ -109,14 +110,14 @@
       "is_enabled": 1,
       "imageUrl": "./img/attraction5.png",
       "unit": "個",
-      "id": "UR6kDTk"
+      "id": "UR6kDTk",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d117523.27571223796!2d120.07838879447057!3d23.001645086871605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x346e761d1271bcbd%3A0xfb6e695a83727cd!2zNzA45Y-w5Y2X5biC5a6J5bmz5Y2A5ZyL5Yud6LevODLomZ8!3m2!1d23.001737799999997!2d120.16078549999999!5e0!3m2!1szh-TW!2stw!4v1709962914699!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
     },
     {
       "imagesUrl": [
         "./img/attraction3.png",
-        "./attractions/loveriver3.jpg",
-        "./attractions/loveriver.jpg",
-        "./attractions/loverive2.jpg"
+        "./attractions/loverive2.jpg",
+        "./attractions/loveriver.jpg"
       ],
       "title": "愛河河畔美景",
       "category": "高雄",
@@ -128,14 +129,14 @@
       "imageUrl": "./attractions/loveriver3.jpg",
       "tag_2": "打卡熱點",
       "tag_1": "賞夜景",
-      "id": "sj3zTH_"
+      "id": "sj3zTH_",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d29458.483645708846!2d120.27504627578158!3d22.642210684271742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d22.6298949!2d120.2858842!4m5!1s0x346e04fb21935ccd%3A0xf44e336c93ecbd!2z5oSb5rKz!3m2!1d22.6529037!2d120.3054076!5e0!3m2!1szh-TW!2stw!4v1709962962418!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
     },
     {
       "imagesUrl": [
         "./img/attraction2.png",
         "./img/pic-cijin shells.jpg",
-        "./attractions/pic-3.jpg",
-        "./attractions/pic-4.jpg"
+        "./attractions/pic-3.jpg"
       ],
       "title": "旗津黃金海韻-海珍珠",
       "category": "高雄",
@@ -143,8 +144,8 @@
       "tag_2": "打卡熱點",
       "tag_1": "地景藝術",
       "description": "位於旗津海岸公園的黃金海韻－海珍珠，鄰近旗津貝殼館，是由臺灣知名藝術家林舜龍與法國聲音藝術家葉澎生（Yannick Dauby）攜手打造，斥資千萬元、共花費6年打造而成，高10公尺、寬16公尺、深達9公尺，外純白、內金黃的海貝殼為造型，不僅是旗津公園的地標之一，更是亞洲最大的貝殼裝置藝術。;\n這個由高雄港務分公司與高雄市政府聯手打造的旗津新地標，同一系列的6座貝殼造型的藝術品「聆聽」，是海珍珠的採集音器，高高低低的分佈在海岸林間，同樣有著金黃色，像耳朵又像眼睛的造型，是指引旅客尋找海珍珠，以及聆聽大海浪濤聲的最佳嚮導。",
-      "timeOpen": "開放時間：;\n星期日：09:00 – 17:00;\n星期一：休息;\n星期二至星期六：09:00 – 17:00;\n",
-      "imgMap": "",
+      "timeOpen": "星期日：09:00 – 17:00;\n星期一：休息;\n星期二至星期六：09:00 – 17:00;\n",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d117870.64055395032!2d120.19331458183711!3d22.599384177924566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x346e03bfe0865851%3A0xf57e4c7a0fdcd61b!2zODA16auY6ZuE5biC5peX5rSl5Y2A5peX5rSl5LiJ6Lev!3m2!1d22.5994052!2d120.27571619999999!5e0!3m2!1szh-TW!2stw!4v1709963010452!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
       "content": "地址：805高雄市旗津區旗津三路;\n自行開車：;\n國道1號-高雄端交流道下-新生高架道路-新生路-中興路-過港隧道-旗津一路至三路-廟前路-海岸路。;\n大眾運輸：;\n搭高鐵至左營站下或搭臺鐵至高雄站下-轉搭高雄捷運至西子灣站下-轉搭渡輪至旗津輪渡站下。\n搭高鐵至左營站下或搭臺鐵至高雄站下-轉搭高雄捷運至草衙站下-轉搭高雄市公車紅9A至旗津輪渡站下。;",
       "is_enabled": 1,
       "imageUrl": "./attractions/pic-4.jpg",
@@ -153,7 +154,8 @@
     {
       "imagesUrl": [
         "./attractions/pic-2-1.jpg",
-        "./attractions/pic-2-2.jpg"
+        "./attractions/pic-2-2.jpg",
+        "./products/pic-lake.jpg"
       ],
       "title": "七股潟湖",
       "content": "地址：臺南市七股區於七股溪與將軍溪間，又稱內海仔;\n自行開車：;\n國道1號-麻豆交流道下-市道176線。;\n國道3號-新化系統交流道下-國道8號-新吉交流道下-省道臺19線-市道176線。;",
@@ -165,12 +167,14 @@
       "tag_2": "生態體驗",
       "is_enabled": 1,
       "imageUrl": "./products/pic-lake.jpg",
-      "id": "_L_CUua"
+      "id": "_L_CUua",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58701.65416444117!2d120.0685137!3d23.13903375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346dd72b6a153e57%3A0x113042a205533feb!2z5LiD6IKh5r2f5rmW!5e0!3m2!1szh-TW!2stw!4v1709963053470!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
     },
     {
       "imagesUrl": [
         "./attractions/pic-33.jpg",
-        "./img/attraction1-1.jpg"
+        "./img/attraction1-1.jpg",
+        "./attractions/pic-33.jpg"
       ],
       "title": "嘉義公園-射日塔",
       "category": "嘉義",
@@ -182,12 +186,14 @@
       "timeOpen": "星期一\t休息;\n星期二\t休息;\n星期三\t09:00–17:00;\n星期四\t09:00–17:00;\n星期五\t09:00–17:00;\n星期六\t09:00–19:00;\n星期日\t09:00–18:00;",
       "imageUrl": "./img/attraction1-1.jpg",
       "is_enabled": 1,
-      "id": "KTpJNvf"
+      "id": "KTpJNvf",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14637.691137436817!2d120.4690514!3d23.4812766!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e944d35bb1d1f%3A0x731392e26fed8831!2z5ZiJ576p5YWs5ZyS5bCE5pel5aGU!5e0!3m2!1szh-TW!2stw!4v1709963091356!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
     },
     {
       "imagesUrl": [
         "./attractions/pic-5-3.jpg",
-        "./attractions/pic-5-1.jpg"
+        "./attractions/pic-5-1.jpg",
+        "./attractions/pic-5-4.jpg"
       ],
       "title": "高雄港旅運中心",
       "category": "高雄",
@@ -199,7 +205,8 @@
       "is_enabled": 1,
       "timeOpen": "1F戶外空間：24小時開放(郵輪作業期間除外);\n3F海韻藝術廣場：;\n週一~週五 10:00~21:00;\n週六~週日 09:30~21:00;",
       "imageUrl": "./attractions/pic-5-4.jpg",
-      "id": "SfXeMNK"
+      "id": "SfXeMNK",
+      "imgMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14732.581798183606!2d120.2935234!3d22.6110431!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e0383c7389177%3A0x79ae6c819df018fc!2z6auY6ZuE5riv5peF6YGL5Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1709963219107!5m2!1szh-TW!2stw\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
     }
   ],
   "products": [
@@ -437,7 +444,8 @@
       "imageUrl": "./products/pic-lake.jpg",
       "creationDate": "2024-03-04",
       "startDate": "2024-03-04",
-      "endDate": "2024-05-08"
+      "endDate": "2024-05-08",
+      "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E5%8F%B0%E5%8D%97/%E8%87%BA%E5%8D%97%E4%B8%83%E8%82%A1%E5%8C%97%E9%96%80%E9%9B%99%E6%97%A5%E9%81%8A"
     },
     {
       "itinerary_data": [
@@ -505,7 +513,8 @@
       "imageUrl": "./products/pic-mountain-1.jpg",
       "creationDate": "2024-03-10",
       "startDate": "2024-03-10",
-      "endDate": "2024-05-10"
+      "endDate": "2024-05-10",
+      "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E9%AB%98%E9%9B%84/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E3%80%81%E6%9C%88%E4%B8%96%E7%95%8C%E9%9B%99%E6%97%A5%E9%81%8A"
     },
     {
       "itinerary_data": [
@@ -533,7 +542,8 @@
       "content": "Day1 早上 鼓山魚市場;Day1 下午 大港橋;",
       "is_enabled": 1,
       "description": "鼓山魚市場，哈瑪星曾繁榮，現整修後重新啟動，擁有全台特色水產，戶外有景觀咖啡，重現歷史風華。大港橋是臺灣首座水平旋轉景觀橋，也是亞洲最長跨港旋轉橋，可在3分鐘內完成水平運轉，每日下午3點開合秀，串連駁二藝術特區與棧貳庫。",
-      "imageUrl": "./img/pic-bridge-kao.jpg"
+      "imageUrl": "./img/pic-bridge-kao.jpg",
+      "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E9%AB%98%E9%9B%84/%E9%BC%93%E9%B9%BD%E5%9A%90%E7%BE%8E%E5%91%B3"
     },
     {
       "itinerary_data": [
