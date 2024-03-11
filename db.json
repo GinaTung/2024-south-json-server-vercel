@@ -65,7 +65,8 @@
       "imagesUrl": [
         "./img/pic-church2-2.jpg",
         "./attractions/pic-church-1.jpg",
-        "./attractions/pic-church-2.jpg"
+        "./attractions/pic-church-2.jpg",
+        "./img/pic-church2.jpg"
       ],
       "tag_2": "打卡熱戀",
       "timeOpen": "全天開放;高跟鞋教堂夜間點燈時間;每天18：00 - 21：00",
@@ -76,8 +77,7 @@
     {
       "imagesUrl": [
         "./img/pic-mesum2.png",
-        "./attractions/pic-mesum3.jpg",
-        "./attractions/pic-mesum2.jpg"
+        "./attractions/pic-mesum3.jpg"
       ],
       "title": "故宮博物院南部院區",
       "category": "嘉義",
@@ -96,8 +96,7 @@
     {
       "imagesUrl": [
         "./attractions/pic-oldhouse.jpg",
-        "./attractions/pic-oldhouse2.jpg",
-        "./img/attraction5.png"
+        "./attractions/pic-oldhouse2.jpg"
       ],
       "title": "安平古堡",
       "category": "台南",
@@ -115,8 +114,7 @@
     },
     {
       "imagesUrl": [
-        "./img/attraction3.png",
-        "./attractions/loverive2.jpg",
+        "./attractions/loveriver3.jpg",
         "./attractions/loveriver.jpg"
       ],
       "title": "愛河河畔美景",
@@ -134,9 +132,8 @@
     },
     {
       "imagesUrl": [
-        "./img/attraction2.png",
-        "./img/pic-cijin shells.jpg",
-        "./attractions/pic-3.jpg"
+        "./attractions/pic-3.jpg",
+        "./attractions/pic-4.jpg"
       ],
       "title": "旗津黃金海韻-海珍珠",
       "category": "高雄",
@@ -172,8 +169,6 @@
     },
     {
       "imagesUrl": [
-        "./attractions/pic-33.jpg",
-        "./img/attraction1-1.jpg",
         "./attractions/pic-33.jpg"
       ],
       "title": "嘉義公園-射日塔",
@@ -191,8 +186,6 @@
     },
     {
       "imagesUrl": [
-        "./attractions/pic-5-3.jpg",
-        "./attractions/pic-5-1.jpg",
         "./attractions/pic-5-4.jpg"
       ],
       "title": "高雄港旅運中心",
