@@ -7,6 +7,9 @@
 		{
 			"name": "2024-SouthernTravelWebsite-fin",
 			"path": "../2024-SouthernTravelWebsite-fin"
+		},
+		{
+			"path": "../../2023Vue/2024Vue-pre-router"
 		}
 	],
 	"settings": {}
