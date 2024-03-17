@@ -1,28 +1,12 @@
 {
   "users": [
     {
-      "email": "T@gmail.com",
-      "password": "$2a$10$9VgbooMcLhr64NMpXRKlue138roPDLk1tKEXseXp3dIAJfo9Yzyn.",
-      "name": "T",
-      "tel": "09123456777",
-      "role": "user",
-      "id": 2
-    },
-    {
       "email": "gb2013429@gmail.com",
       "password": "$2a$10$FuGirP7AEL4p8KWjVDNFn.25PFUmHAUieEPvS4lO8FeUn.24VYEwe",
       "name": "yuling",
       "tel": "0912345678",
       "role": "user",
       "id": 3
-    },
-    {
-      "email": "TEST5@gmail.com",
-      "password": "$2a$10$61VkoIaWj76VzwcMhNEI0.BJs8U8GQqx87kmwKD1jB.UDQ90E8142",
-      "name": "TEST5",
-      "tel": "0912345678",
-      "role": "user",
-      "id": 4
     }
   ],
   "posts": [
@@ -619,6 +603,24 @@
       "userId": 3,
       "final_total": 3600,
       "id": 2
+    },
+    {
+      "productId": "GDwTM-i",
+      "qty": 1,
+      "price": 4399,
+      "total": 4399,
+      "userId": 4,
+      "final_total": 4399,
+      "id": 3
+    },
+    {
+      "productId": "KvBuohr",
+      "qty": 2,
+      "price": 1888,
+      "total": 3776,
+      "userId": 4,
+      "final_total": 3776,
+      "id": 4
     }
   ],
   "cartsData": [
@@ -724,32 +726,153 @@
       ],
       "total": 61020,
       "final_total": 61020,
+      "status": false,
+      "orderStatus": false,
+      "userId": 3,
       "id": 1
+    },
+    {
+      "data": [
+        {
+          "productId": "xoGgJIk",
+          "qty": 2,
+          "price": 3600,
+          "total": 7200,
+          "userId": 4,
+          "final_total": 7200,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "四草綠色隧道",
+                "itinerary_first_day_am_content": "四草綠色隧道的航行路線分成兩條：紅樹林隧道及四草台江之旅，在上竹筏之前，每位乘客都需要穿上救生衣，再領取遮陽和保護頭部的斗笠，準備妥當後就可以登上竹筏，開啟這場綠色隧道探險啦！隧道兩旁不時有鷺鷥、夜鷺或其他鳥類低空飛過，四草大眾廟紅樹林保護區林相優美，擁有五梨跤、水筆仔、欖李、海茄苳四種紅樹林。船上的解說員也會沿途細說當地生態，遊客也亦可透過望遠鏡觀察紅樹林下的招潮蟹、彈塗魚等生物，是生態旅遊的最佳場域，亦是攝影師最愛捕捉的自然美景。",
+                "itinerary_first_day_pm_title": "奇美博物館",
+                "itinerary_first_day_pm_content": "一座綜合性的博物館，擁有西洋藝術、樂器、兵器與動物標本等多元的典藏品，館內展廳包括藝術廳、樂器廳、兵器廳、動物廳、羅丹廳、雕塑大道以及特展廳等等，提供文明之奇與藝術之美；館外結合西洋神話元素打造特色景點，寄望創建一處大眾共享共賞的園地，成為人們的心靈避風港。"
+              }
+            ],
+            "imagesUrl": [
+              "./img/pic-grass.jpg",
+              "./products/pic-museum-tai.jpg"
+            ],
+            "title": "綠色隧道‧奇美博物館一日遊",
+            "category": "台南",
+            "unit": "套",
+            "id": "xoGgJIk",
+            "tag_1": "一日遊",
+            "content": "Day1 早上 四草綠色隧道\nDay2 下午 奇美博物館",
+            "is_enabled": 1,
+            "description": "四草綠色隧道提供紅樹林隧道和四草台江之旅，穿越綠色隧道，欣賞紅樹林美景，生態豐富，是生態旅遊和攝影愛好者的理想場域。奇美博物館是綜合性博物館，擁有多元典藏，包括藝術、樂器、兵器、動物標本等，展示文明之奇與藝術之美。",
+            "tag_2": "網美必拍",
+            "origin_price": 3800,
+            "price": 3600,
+            "day_num": 1,
+            "imageUrl": "./products/pic-museum-tai.jpg",
+            "creationDate": "2024-03-01",
+            "startDate": "2024-03-01",
+            "endDate": "2024-04-07",
+            "goStartDate": "2024-04-24",
+            "goEndDate": "2024-04-25"
+          }
+        },
+        {
+          "productId": "-c35c4Q9gWLGb7p4aWAM4",
+          "qty": 1,
+          "price": 6380,
+          "total": 6380,
+          "userId": 4,
+          "final_total": 6380,
+          "id": 4,
+          "product": {
+            "category": "嘉義",
+            "tag_1": "雙日遊",
+            "tag_2": "鐵道之旅",
+            "day_num": 2,
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "阿里山森林鐵路",
+                "itinerary_first_day_am_content": "全線自海拔30公尺的嘉義，一路爬升至2,216公尺高的阿里山，全程經過47個隧道、72座橋，沿途可欣賞熱、暖、溫等不同森林帶之植物種類變化與美麗的山脈、溪谷。",
+                "itinerary_first_day_pm_title": "阿里山森林遊樂園",
+                "itinerary_first_day_pm_content": "阿里山共由十八座高山組成，屬於玉山山脈的支脈，隔同富溪與玉山主峰相望，現在新中橫公路已將阿里山與玉山風景區串連起來。阿里山森林遊樂區海拔高度2,216公尺，四周高山環列，氣候涼爽，以日出、雲海、晚霞、森林、登山森林鐵路並列為阿里山五奇，聞名國際。而鄒族原住民人文資源更增其觀光魅力。"
+              },
+              {
+                "second_day_title": "第二天",
+                "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
+                "itinerary_second_day_am_content": "因應日漸成熟之旅遊風潮與國內旅遊市場的廣大需求，基於帶動大阿里山地區的觀光發展及資源保育需要，「阿里山國家風景區管理處成立並專責執行觀光事業規劃建設與經營管理工作，俾以服務大阿里山地區之遊客人潮，並希望能藉由遊憩品質提升，協助地方觀光產業的蓬勃發展。",
+                "itinerary_second_day_pm_title": "奮起湖風景區",
+                "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
+              }
+            ],
+            "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
+            "itinerary_description": "1",
+            "id": "-c35c4Q9gWLGb7p4aWAM4",
+            "is_enabled": 1,
+            "origin_price": 6600,
+            "price": 6380,
+            "title": "阿里山芬多精之雙日遊",
+            "unit": "套",
+            "num": 1,
+            "imageUrl": "./products/pic-tree-2.jpg",
+            "imagesUrl": [
+              "./products/pic-tree-2.jpg",
+              "./img/pic-tree.jpg",
+              "./products/pic-tree-1.jpg",
+              "./products/pic-train.jpg"
+            ],
+            "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
+            "content": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區",
+            "creationDate": "2024-02-01",
+            "startDate": "2024-02-01",
+            "endDate": "2024-03-31",
+            "goStartDate": "2024-04-15",
+            "goEndDate": "2024-04-16",
+            "max_travelers": 15
+          }
+        }
+      ],
+      "total": 13580,
+      "final_total": 13580,
+      "status": true,
+      "orderStatus": false,
+      "userId": 4,
+      "id": 2
     }
   ],
   "order": [
     {
       "user": {
-        "name": "test",
-        "email": "test@gmail.com",
-        "tel": "0912346768",
-        "address": "kaohsiung"
+        "name": "dsfsd",
+        "email": "429@gmail.com",
+        "tel": "091",
+        "address": "dsfsdf",
+        "birthday": "2024-03-01",
+        "comment": "asaas",
+        "shippingMethod": "超商取貨",
+        "userId": 4,
+        "cartDataId": 2,
+        "status": true,
+        "payMethod": "貨到付款"
       },
-      "id": 1
+      "id": 1,
+      "status": false
     },
     {
-      "orderUser": {
-        "user": {
-          "name": "TEST2",
-          "email": "TEST@gmail.com",
-          "tel": "0912345678",
-          "address": "",
-          "birthday": "2024-03-07",
-          "comment": "",
-          "shippingMethod": "超商取貨"
-        }
+      "user": {
+        "name": "sdfds",
+        "email": "gb2013429@gmail.com",
+        "tel": "09155526",
+        "address": "sdfsdf",
+        "birthday": "2024-03-06",
+        "comment": "dsfsd",
+        "shippingMethod": "宅配",
+        "userId": 4,
+        "cartDataId": 2,
+        "status": true,
+        "payMethod": "貨到付款"
       },
-      "id": 2
+      "id": 2,
+      "status": false
     }
   ]
 }
