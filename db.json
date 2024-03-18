@@ -7,6 +7,38 @@
       "tel": "0912345678",
       "role": "user",
       "id": 3
+    },
+    {
+      "email": "TT@gmail.com",
+      "password": "$2a$10$VHI/eyijW32KdwpdmLEOcOldPNyAMZFztJR8kR3HjChPhprHDPFKq",
+      "name": "TT",
+      "tel": "0712345678",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "Z@gmail.com",
+      "password": "$2a$10$ng0VG/s/b9RMp4bq8z80LOCqEtWO3hyrIu9F5apj93uZWlpPFzC0i",
+      "name": "Z",
+      "tel": "123",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "W@gmail.com",
+      "password": "$2a$10$6DyseBpPDMOkcicakMdPTe/8PYshf3IAQsyVXINPZtqHz9HkFMuA6",
+      "name": "W",
+      "tel": "123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "TEST66@gmail.com",
+      "password": "$2a$10$WW5Jf0sW2nSSjaKhxkb9Z.Gj6PDLZpkdXmnAUnJ/FjWnaBaGrMgji",
+      "name": "TEST66@gmail.com",
+      "tel": "123",
+      "role": "user",
+      "id": 7
     }
   ],
   "posts": [
@@ -605,22 +637,13 @@
       "id": 2
     },
     {
-      "productId": "GDwTM-i",
-      "qty": 1,
-      "price": 4399,
-      "total": 4399,
-      "userId": 4,
-      "final_total": 4399,
-      "id": 3
-    },
-    {
       "productId": "KvBuohr",
-      "qty": 2,
+      "qty": 1,
       "price": 1888,
-      "total": 3776,
-      "userId": 4,
-      "final_total": 3776,
-      "id": 4
+      "total": 1888,
+      "userId": 7,
+      "final_total": 1888,
+      "id": 3
     }
   ],
   "cartsData": [
@@ -734,55 +757,281 @@
     {
       "data": [
         {
-          "productId": "xoGgJIk",
-          "qty": 2,
-          "price": 3600,
-          "total": 7200,
+          "productId": "HJaIBxf",
+          "qty": 1,
+          "price": 5888,
+          "total": 5888,
           "userId": 4,
-          "final_total": 7200,
+          "final_total": 5888,
+          "id": 5,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "國立故宮博物院南部院區",
+                "itinerary_first_day_am_content": "博物館建築以中國水墨畫濃墨、飛白與渲染三種技法，形成實量體展示空間及文物庫房、虛量體公共接待空間與穿透連接空間，象徵著中華、印度與波斯三股文化交織出悠遠流長多元的亞洲文明，而其建築造型由兩個流線型量體交織而成，作為「龍」、「象」、「馬」文化象徵的隱喻。為呼應主體建築的造型，銜接建築量體動勢，景觀橋的結構形式與造型採用書法中草書的形式，以富韻律的動態氣勢引導入館人群接近主體建築，並提供參覽遊客最獨特與舒適的步行經驗。",
+                "itinerary_first_day_pm_title": "高跟鞋教堂",
+                "itinerary_first_day_pm_content": "高跟鞋教堂高度約17m，寬度約11m，主結構由1,269根鋼架組成，外表共約320餘片玻璃，造型相當亮麗美觀，其設計與裝設不僅是全臺第一，更是全世界唯一。高跟鞋教堂幸福意象工程施工相當不易，320餘片玻璃大小、安裝角度皆不同，必須克服高跟鞋的形狀及彎曲幅度，故鋼架及玻璃組裝精度要求極高。玻璃高跟鞋象徵「每個小女孩都曾夢想有雙漂亮的高跟鞋，伴著自己走出美麗優雅的人生。」"
+              }
+            ],
+            "imagesUrl": [
+              "./img/pic-mesum.jpg",
+              "./img/pic-church2.jpg"
+            ],
+            "title": "故宮博物院‧高跟鞋教堂一日遊",
+            "id": "HJaIBxf",
+            "category": "嘉義",
+            "unit": "套",
+            "day_num": 1,
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱點",
+            "origin_price": 6000,
+            "price": 5888,
+            "description": "國立故宮博物院南部院區建築融合中國水墨畫技法，象徵亞洲文明多元交織，主體建築呼應「龍」、「象」、「馬」文化，景觀橋以草書形式引導遊客獨特舒適的步行體驗。高跟鞋教堂高17m，全球唯一，320片不同角度的精美玻璃象徵每個女孩的夢想與優雅人生。",
+            "content": "Day1 早上 國立故宮博物院南部院區;\nDay1 下午 高跟鞋教堂;",
+            "is_enabled": 1,
+            "imageUrl": "./img/pic-mesum.jpg",
+            "creationDate": "2024-03-01",
+            "startDate": "2024-03-01",
+            "endDate": "2024-03-31",
+            "max_travelers": 15,
+            "goStartDate": "2024-04-19",
+            "goEndDate": "2024-04-19"
+          }
+        }
+      ],
+      "total": 5888,
+      "final_total": 5888,
+      "status": true,
+      "userId": 4,
+      "id": 2
+    },
+    {
+      "data": [
+        {
+          "productId": "KvBuohr",
+          "qty": 1,
+          "price": 1888,
+          "total": 1888,
+          "userId": 5,
+          "final_total": 1888,
           "id": 3,
           "product": {
             "itinerary_data": [
               {
                 "first_day_title": "第一天",
-                "itinerary_first_day_am_title": "四草綠色隧道",
-                "itinerary_first_day_am_content": "四草綠色隧道的航行路線分成兩條：紅樹林隧道及四草台江之旅，在上竹筏之前，每位乘客都需要穿上救生衣，再領取遮陽和保護頭部的斗笠，準備妥當後就可以登上竹筏，開啟這場綠色隧道探險啦！隧道兩旁不時有鷺鷥、夜鷺或其他鳥類低空飛過，四草大眾廟紅樹林保護區林相優美，擁有五梨跤、水筆仔、欖李、海茄苳四種紅樹林。船上的解說員也會沿途細說當地生態，遊客也亦可透過望遠鏡觀察紅樹林下的招潮蟹、彈塗魚等生物，是生態旅遊的最佳場域，亦是攝影師最愛捕捉的自然美景。",
-                "itinerary_first_day_pm_title": "奇美博物館",
-                "itinerary_first_day_pm_content": "一座綜合性的博物館，擁有西洋藝術、樂器、兵器與動物標本等多元的典藏品，館內展廳包括藝術廳、樂器廳、兵器廳、動物廳、羅丹廳、雕塑大道以及特展廳等等，提供文明之奇與藝術之美；館外結合西洋神話元素打造特色景點，寄望創建一處大眾共享共賞的園地，成為人們的心靈避風港。"
+                "itinerary_first_day_am_title": "壽山動物園",
+                "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
+                "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
+                "itinerary_first_day_pm_content": "高10公尺、寬16公尺、深達9公尺，是由藝術家林舜龍與法國聲音藝術家葉澎生攜手耗時6年打造而成。其以金色為主色，半圓形海貝殼為造型，藉由不同角度的陽光照射，展現深淺不一的黃金色澤，不僅是旗津海岸公園的地標之一，更是亞洲最大的貝殼裝置藝術。"
+              }
+            ],
+            "imageUrl": "./products/zoo.jpg",
+            "imagesUrl": [
+              "./products/zoo.jpg",
+              "./img/pic-cijin shells.jpg"
+            ],
+            "title": "旗津踩風一日遊",
+            "category": "高雄",
+            "unit": "套",
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱戀",
+            "origin_price": 2000,
+            "price": 1888,
+            "day_num": 1,
+            "content": "Day1 早上 壽山動物園;Day1 下午 旗津黃金海韻-海珍珠",
+            "is_enabled": 1,
+            "id": "KvBuohr",
+            "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
+            "creationDate": "2024-02-12",
+            "startDate": "2024-02-12",
+            "endDate": "2024-04-07",
+            "max_travelers": 10,
+            "goStartDate": "2024-04-23",
+            "goEndDate": "2024-04-23"
+          }
+        }
+      ],
+      "total": 1888,
+      "final_total": 1888,
+      "status": true,
+      "userId": 5,
+      "orderStatus": false,
+      "id": 3,
+      "orderId": 4
+    },
+    {
+      "data": [
+        {
+          "productId": "2Ss0Yws",
+          "qty": 1,
+          "price": 2399,
+          "total": 2399,
+          "userId": 5,
+          "final_total": 2399,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "嘉義公園",
+                "itinerary_first_day_am_content": "嘉義公園位在嘉義市東郊，始建之初，依山仔頂山勢開闢園地，後來又拓寬東西邊的空地，築橋修路，計公園面積約268,000多平方公尺，園內古木參天，涼亭水榭，假山魚池，曲徑通幽，因為利用自然山水，風景雅緻，可謂逍遙勝地。\n\n公園內有忠烈祠、射日塔、福康安紀功碑、丙午震災紀念碑、十二門古砲、陳澄波畫架、牆之道、一江山紀念碑、孔廟以及國寶級的阿里山森林鐵道21號蒸汽火車頭等史蹟，為民眾休閒好去處。此外，位在公園東北隅的林業、農業兩試驗分所，場中遍植多種熱帶植物，濃蔭逐暑，綠葉搖風，亦值得順道一遊。",
+                "itinerary_first_day_pm_title": "嘉義樹木園",
+                "itinerary_first_day_pm_content": "佔地約8.6公頃的樹木園隸屬於農業部林業試驗所，為熱帶經濟樹種之栽植試驗地，兼以母樹園之形態經營，栽植之樹木多屬人文特色的植物，如著名的桃花心木、肯氏南洋杉、黑板樹、巴西橡膠樹…等。\n\n園區內群樹挺拔林立，自然樸實中充分呈現林場的幽靜氣息，小徑蜿蜒，林蔭蒼鬱，古樸的「林場風清」嘉義八景之一的石碑，訴說本園享有的美譽。"
               }
             ],
             "imagesUrl": [
-              "./img/pic-grass.jpg",
-              "./products/pic-museum-tai.jpg"
+              "./img/attraction1-1.jpg",
+              "./products/pic-tree-chi.jpg"
             ],
-            "title": "綠色隧道‧奇美博物館一日遊",
-            "category": "台南",
+            "title": "嘉義市區一日遊",
+            "id": "2Ss0Yws",
+            "category": "嘉義",
             "unit": "套",
-            "id": "xoGgJIk",
             "tag_1": "一日遊",
-            "content": "Day1 早上 四草綠色隧道\nDay2 下午 奇美博物館",
-            "is_enabled": 1,
-            "description": "四草綠色隧道提供紅樹林隧道和四草台江之旅，穿越綠色隧道，欣賞紅樹林美景，生態豐富，是生態旅遊和攝影愛好者的理想場域。奇美博物館是綜合性博物館，擁有多元典藏，包括藝術、樂器、兵器、動物標本等，展示文明之奇與藝術之美。",
-            "tag_2": "網美必拍",
-            "origin_price": 3800,
-            "price": 3600,
+            "tag_2": "生態體驗",
+            "origin_price": 2500,
+            "price": 2399,
             "day_num": 1,
-            "imageUrl": "./products/pic-museum-tai.jpg",
-            "creationDate": "2024-03-01",
-            "startDate": "2024-03-01",
-            "endDate": "2024-04-07",
-            "goStartDate": "2024-04-24",
-            "goEndDate": "2024-04-25"
+            "description": "嘉義公園位於東郊，268,000多平方公尺，風景雅緻，古木涼亭，有忠烈祠、射日塔、陳澄波畫架等歷史古蹟。公園東北的樹木園，8.6公頃，種植桃花心木、南洋杉等特色樹木，展現林場幽靜氣息。",
+            "content": "Day1 早上 嘉義公園;\nDay1 下午 嘉義樹木園;",
+            "is_enabled": 1,
+            "imageUrl": "./img/attraction1-1.jpg",
+            "creationDate": "2024-02-19",
+            "startDate": "2024-02-19",
+            "endDate": "2024-03-31",
+            "max_travelers": 8,
+            "goStartDate": "2024-04-21",
+            "goEndDate": "2024-04-21"
           }
-        },
+        }
+      ],
+      "total": 2399,
+      "final_total": 2399,
+      "status": true,
+      "userId": 5,
+      "orderStatus": false,
+      "id": 4,
+      "orderId": 5
+    },
+    {
+      "data": [
+        {
+          "productId": "KvBuohr",
+          "qty": 1,
+          "price": 1888,
+          "total": 1888,
+          "userId": 6,
+          "final_total": 1888,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "壽山動物園",
+                "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
+                "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
+                "itinerary_first_day_pm_content": "高10公尺、寬16公尺、深達9公尺，是由藝術家林舜龍與法國聲音藝術家葉澎生攜手耗時6年打造而成。其以金色為主色，半圓形海貝殼為造型，藉由不同角度的陽光照射，展現深淺不一的黃金色澤，不僅是旗津海岸公園的地標之一，更是亞洲最大的貝殼裝置藝術。"
+              }
+            ],
+            "imageUrl": "./products/zoo.jpg",
+            "imagesUrl": [
+              "./products/zoo.jpg",
+              "./img/pic-cijin shells.jpg"
+            ],
+            "title": "旗津踩風一日遊",
+            "category": "高雄",
+            "unit": "套",
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱戀",
+            "origin_price": 2000,
+            "price": 1888,
+            "day_num": 1,
+            "content": "Day1 早上 壽山動物園;Day1 下午 旗津黃金海韻-海珍珠",
+            "is_enabled": 1,
+            "id": "KvBuohr",
+            "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
+            "creationDate": "2024-02-12",
+            "startDate": "2024-02-12",
+            "endDate": "2024-04-07",
+            "max_travelers": 10,
+            "goStartDate": "2024-04-23",
+            "goEndDate": "2024-04-23"
+          }
+        }
+      ],
+      "total": 1888,
+      "final_total": 1888,
+      "status": true,
+      "userId": 6,
+      "orderStatus": false,
+      "id": 5,
+      "orderId": 6
+    },
+    {
+      "data": [
+        {
+          "productId": "KvBuohr",
+          "qty": 3,
+          "price": 1888,
+          "total": 5664,
+          "userId": 6,
+          "final_total": 5664,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "壽山動物園",
+                "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
+                "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
+                "itinerary_first_day_pm_content": "高10公尺、寬16公尺、深達9公尺，是由藝術家林舜龍與法國聲音藝術家葉澎生攜手耗時6年打造而成。其以金色為主色，半圓形海貝殼為造型，藉由不同角度的陽光照射，展現深淺不一的黃金色澤，不僅是旗津海岸公園的地標之一，更是亞洲最大的貝殼裝置藝術。"
+              }
+            ],
+            "imageUrl": "./products/zoo.jpg",
+            "imagesUrl": [
+              "./products/zoo.jpg",
+              "./img/pic-cijin shells.jpg"
+            ],
+            "title": "旗津踩風一日遊",
+            "category": "高雄",
+            "unit": "套",
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱戀",
+            "origin_price": 2000,
+            "price": 1888,
+            "day_num": 1,
+            "content": "Day1 早上 壽山動物園;Day1 下午 旗津黃金海韻-海珍珠",
+            "is_enabled": 1,
+            "id": "KvBuohr",
+            "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
+            "creationDate": "2024-02-12",
+            "startDate": "2024-02-12",
+            "endDate": "2024-04-07",
+            "max_travelers": 10,
+            "goStartDate": "2024-04-23",
+            "goEndDate": "2024-04-23"
+          }
+        }
+      ],
+      "total": 5664,
+      "final_total": 5664,
+      "status": true,
+      "userId": 6,
+      "orderStatus": false,
+      "id": 6,
+      "orderId": 7
+    },
+    {
+      "data": [
         {
           "productId": "-c35c4Q9gWLGb7p4aWAM4",
           "qty": 1,
           "price": 6380,
           "total": 6380,
-          "userId": 4,
+          "userId": 6,
           "final_total": 6380,
-          "id": 4,
+          "id": 3,
           "product": {
             "category": "嘉義",
             "tag_1": "雙日遊",
@@ -831,12 +1080,344 @@
           }
         }
       ],
-      "total": 13580,
-      "final_total": 13580,
+      "total": 6380,
+      "final_total": 6380,
       "status": true,
+      "userId": 6,
       "orderStatus": false,
-      "userId": 4,
-      "id": 2
+      "id": 7,
+      "orderId": 8
+    },
+    {
+      "data": [
+        {
+          "productId": "-c35c4Q9gWLGb7p4aWAM4",
+          "qty": 1,
+          "price": 6380,
+          "total": 6380,
+          "userId": 6,
+          "final_total": 6380,
+          "id": 3,
+          "product": {
+            "category": "嘉義",
+            "tag_1": "雙日遊",
+            "tag_2": "鐵道之旅",
+            "day_num": 2,
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "阿里山森林鐵路",
+                "itinerary_first_day_am_content": "全線自海拔30公尺的嘉義，一路爬升至2,216公尺高的阿里山，全程經過47個隧道、72座橋，沿途可欣賞熱、暖、溫等不同森林帶之植物種類變化與美麗的山脈、溪谷。",
+                "itinerary_first_day_pm_title": "阿里山森林遊樂園",
+                "itinerary_first_day_pm_content": "阿里山共由十八座高山組成，屬於玉山山脈的支脈，隔同富溪與玉山主峰相望，現在新中橫公路已將阿里山與玉山風景區串連起來。阿里山森林遊樂區海拔高度2,216公尺，四周高山環列，氣候涼爽，以日出、雲海、晚霞、森林、登山森林鐵路並列為阿里山五奇，聞名國際。而鄒族原住民人文資源更增其觀光魅力。"
+              },
+              {
+                "second_day_title": "第二天",
+                "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
+                "itinerary_second_day_am_content": "因應日漸成熟之旅遊風潮與國內旅遊市場的廣大需求，基於帶動大阿里山地區的觀光發展及資源保育需要，「阿里山國家風景區管理處成立並專責執行觀光事業規劃建設與經營管理工作，俾以服務大阿里山地區之遊客人潮，並希望能藉由遊憩品質提升，協助地方觀光產業的蓬勃發展。",
+                "itinerary_second_day_pm_title": "奮起湖風景區",
+                "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
+              }
+            ],
+            "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
+            "itinerary_description": "1",
+            "id": "-c35c4Q9gWLGb7p4aWAM4",
+            "is_enabled": 1,
+            "origin_price": 6600,
+            "price": 6380,
+            "title": "阿里山芬多精之雙日遊",
+            "unit": "套",
+            "num": 1,
+            "imageUrl": "./products/pic-tree-2.jpg",
+            "imagesUrl": [
+              "./products/pic-tree-2.jpg",
+              "./img/pic-tree.jpg",
+              "./products/pic-tree-1.jpg",
+              "./products/pic-train.jpg"
+            ],
+            "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
+            "content": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區",
+            "creationDate": "2024-02-01",
+            "startDate": "2024-02-01",
+            "endDate": "2024-03-31",
+            "goStartDate": "2024-04-15",
+            "goEndDate": "2024-04-16",
+            "max_travelers": 15
+          }
+        }
+      ],
+      "total": 6380,
+      "final_total": 6380,
+      "status": true,
+      "userId": 6,
+      "orderStatus": false,
+      "id": 8,
+      "orderId": 9
+    },
+    {
+      "data": [
+        {
+          "productId": "HJaIBxf",
+          "qty": 1,
+          "price": 5888,
+          "total": 5888,
+          "userId": 6,
+          "final_total": 5888,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "國立故宮博物院南部院區",
+                "itinerary_first_day_am_content": "博物館建築以中國水墨畫濃墨、飛白與渲染三種技法，形成實量體展示空間及文物庫房、虛量體公共接待空間與穿透連接空間，象徵著中華、印度與波斯三股文化交織出悠遠流長多元的亞洲文明，而其建築造型由兩個流線型量體交織而成，作為「龍」、「象」、「馬」文化象徵的隱喻。為呼應主體建築的造型，銜接建築量體動勢，景觀橋的結構形式與造型採用書法中草書的形式，以富韻律的動態氣勢引導入館人群接近主體建築，並提供參覽遊客最獨特與舒適的步行經驗。",
+                "itinerary_first_day_pm_title": "高跟鞋教堂",
+                "itinerary_first_day_pm_content": "高跟鞋教堂高度約17m，寬度約11m，主結構由1,269根鋼架組成，外表共約320餘片玻璃，造型相當亮麗美觀，其設計與裝設不僅是全臺第一，更是全世界唯一。高跟鞋教堂幸福意象工程施工相當不易，320餘片玻璃大小、安裝角度皆不同，必須克服高跟鞋的形狀及彎曲幅度，故鋼架及玻璃組裝精度要求極高。玻璃高跟鞋象徵「每個小女孩都曾夢想有雙漂亮的高跟鞋，伴著自己走出美麗優雅的人生。」"
+              }
+            ],
+            "imagesUrl": [
+              "./img/pic-mesum.jpg",
+              "./img/pic-church2.jpg"
+            ],
+            "title": "故宮博物院‧高跟鞋教堂一日遊",
+            "id": "HJaIBxf",
+            "category": "嘉義",
+            "unit": "套",
+            "day_num": 1,
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱點",
+            "origin_price": 6000,
+            "price": 5888,
+            "description": "國立故宮博物院南部院區建築融合中國水墨畫技法，象徵亞洲文明多元交織，主體建築呼應「龍」、「象」、「馬」文化，景觀橋以草書形式引導遊客獨特舒適的步行體驗。高跟鞋教堂高17m，全球唯一，320片不同角度的精美玻璃象徵每個女孩的夢想與優雅人生。",
+            "content": "Day1 早上 國立故宮博物院南部院區;\nDay1 下午 高跟鞋教堂;",
+            "is_enabled": 1,
+            "imageUrl": "./img/pic-mesum.jpg",
+            "creationDate": "2024-03-01",
+            "startDate": "2024-03-01",
+            "endDate": "2024-03-31",
+            "max_travelers": 15,
+            "goStartDate": "2024-04-19",
+            "goEndDate": "2024-04-19"
+          }
+        }
+      ],
+      "total": 5888,
+      "final_total": 5888,
+      "status": true,
+      "userId": 6,
+      "orderStatus": false,
+      "id": 9,
+      "orderId": 10
+    },
+    {
+      "data": [
+        {
+          "productId": "HJaIBxf",
+          "qty": 1,
+          "price": 5888,
+          "total": 5888,
+          "userId": 6,
+          "final_total": 5888,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "國立故宮博物院南部院區",
+                "itinerary_first_day_am_content": "博物館建築以中國水墨畫濃墨、飛白與渲染三種技法，形成實量體展示空間及文物庫房、虛量體公共接待空間與穿透連接空間，象徵著中華、印度與波斯三股文化交織出悠遠流長多元的亞洲文明，而其建築造型由兩個流線型量體交織而成，作為「龍」、「象」、「馬」文化象徵的隱喻。為呼應主體建築的造型，銜接建築量體動勢，景觀橋的結構形式與造型採用書法中草書的形式，以富韻律的動態氣勢引導入館人群接近主體建築，並提供參覽遊客最獨特與舒適的步行經驗。",
+                "itinerary_first_day_pm_title": "高跟鞋教堂",
+                "itinerary_first_day_pm_content": "高跟鞋教堂高度約17m，寬度約11m，主結構由1,269根鋼架組成，外表共約320餘片玻璃，造型相當亮麗美觀，其設計與裝設不僅是全臺第一，更是全世界唯一。高跟鞋教堂幸福意象工程施工相當不易，320餘片玻璃大小、安裝角度皆不同，必須克服高跟鞋的形狀及彎曲幅度，故鋼架及玻璃組裝精度要求極高。玻璃高跟鞋象徵「每個小女孩都曾夢想有雙漂亮的高跟鞋，伴著自己走出美麗優雅的人生。」"
+              }
+            ],
+            "imagesUrl": [
+              "./img/pic-mesum.jpg",
+              "./img/pic-church2.jpg"
+            ],
+            "title": "故宮博物院‧高跟鞋教堂一日遊",
+            "id": "HJaIBxf",
+            "category": "嘉義",
+            "unit": "套",
+            "day_num": 1,
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱點",
+            "origin_price": 6000,
+            "price": 5888,
+            "description": "國立故宮博物院南部院區建築融合中國水墨畫技法，象徵亞洲文明多元交織，主體建築呼應「龍」、「象」、「馬」文化，景觀橋以草書形式引導遊客獨特舒適的步行體驗。高跟鞋教堂高17m，全球唯一，320片不同角度的精美玻璃象徵每個女孩的夢想與優雅人生。",
+            "content": "Day1 早上 國立故宮博物院南部院區;\nDay1 下午 高跟鞋教堂;",
+            "is_enabled": 1,
+            "imageUrl": "./img/pic-mesum.jpg",
+            "creationDate": "2024-03-01",
+            "startDate": "2024-03-01",
+            "endDate": "2024-03-31",
+            "max_travelers": 15,
+            "goStartDate": "2024-04-19",
+            "goEndDate": "2024-04-19"
+          }
+        }
+      ],
+      "total": 5888,
+      "final_total": 5888,
+      "status": true,
+      "userId": 6,
+      "orderStatus": false,
+      "id": 10,
+      "orderId": 11
+    },
+    {
+      "data": [
+        {
+          "productId": "vjHdmEx",
+          "qty": 1,
+          "price": 3250,
+          "total": 3250,
+          "userId": 6,
+          "final_total": 3250,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "鼓山魚市場",
+                "itinerary_first_day_am_content": "鼓山魚市場曾經為高雄市第一座現代化的魚市場，見證哈瑪星最繁榮的時刻，隨著漁業重心從哈瑪星漸漸轉移至前鎮漁港而沒落，為了重現昔日風華，鼓山魚市場歷經整修、調整營運方向後重新啟動，館內不僅擁有全台特色水產、農漁伴手禮，戶外則設有景觀咖啡等特色店家，創造富有歷史意義的高雄海景第一排。",
+                "itinerary_first_day_pm_title": "大港橋",
+                "itinerary_first_day_pm_content": "駁二藝術特區碼頭旁的大港橋，是全臺首座水平旋轉景觀橋樑，也是亞洲最長的跨港旋轉橋，可在3分鐘內完成水平運轉，每日下午3點進行開合秀，每逢週五六日晚間7點加開1場，橋樑可供行人及自行車牽行，串連駁二藝術特區與棧貳庫2處熱門景點，是目前最新潮的旅遊路線。"
+              }
+            ],
+            "imagesUrl": [
+              "./products/pic-kao.jpg",
+              "./img/pic-bridge-kao.jpg"
+            ],
+            "title": "鼓鹽嚐美味",
+            "category": "高雄",
+            "tag_1": "一日遊",
+            "unit": "套",
+            "id": "vjHdmEx",
+            "tag_2": "美食之旅",
+            "origin_price": 3600,
+            "price": 3250,
+            "day_num": 1,
+            "content": "Day1 早上 鼓山魚市場;Day1 下午 大港橋;",
+            "is_enabled": 1,
+            "description": "鼓山魚市場，哈瑪星曾繁榮，現整修後重新啟動，擁有全台特色水產，戶外有景觀咖啡，重現歷史風華。大港橋是臺灣首座水平旋轉景觀橋，也是亞洲最長跨港旋轉橋，可在3分鐘內完成水平運轉，每日下午3點開合秀，串連駁二藝術特區與棧貳庫。",
+            "imageUrl": "./img/pic-bridge-kao.jpg",
+            "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E9%AB%98%E9%9B%84/%E9%BC%93%E9%B9%BD%E5%9A%90%E7%BE%8E%E5%91%B3"
+          }
+        }
+      ],
+      "total": 3250,
+      "final_total": 3250,
+      "status": true,
+      "userId": 6,
+      "orderStatus": false,
+      "id": 11,
+      "orderId": 12
+    },
+    {
+      "data": [
+        {
+          "productId": "HJaIBxf",
+          "qty": 1,
+          "price": 5888,
+          "total": 5888,
+          "userId": 6,
+          "final_total": 5888,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "國立故宮博物院南部院區",
+                "itinerary_first_day_am_content": "博物館建築以中國水墨畫濃墨、飛白與渲染三種技法，形成實量體展示空間及文物庫房、虛量體公共接待空間與穿透連接空間，象徵著中華、印度與波斯三股文化交織出悠遠流長多元的亞洲文明，而其建築造型由兩個流線型量體交織而成，作為「龍」、「象」、「馬」文化象徵的隱喻。為呼應主體建築的造型，銜接建築量體動勢，景觀橋的結構形式與造型採用書法中草書的形式，以富韻律的動態氣勢引導入館人群接近主體建築，並提供參覽遊客最獨特與舒適的步行經驗。",
+                "itinerary_first_day_pm_title": "高跟鞋教堂",
+                "itinerary_first_day_pm_content": "高跟鞋教堂高度約17m，寬度約11m，主結構由1,269根鋼架組成，外表共約320餘片玻璃，造型相當亮麗美觀，其設計與裝設不僅是全臺第一，更是全世界唯一。高跟鞋教堂幸福意象工程施工相當不易，320餘片玻璃大小、安裝角度皆不同，必須克服高跟鞋的形狀及彎曲幅度，故鋼架及玻璃組裝精度要求極高。玻璃高跟鞋象徵「每個小女孩都曾夢想有雙漂亮的高跟鞋，伴著自己走出美麗優雅的人生。」"
+              }
+            ],
+            "imagesUrl": [
+              "./img/pic-mesum.jpg",
+              "./img/pic-church2.jpg"
+            ],
+            "title": "故宮博物院‧高跟鞋教堂一日遊",
+            "id": "HJaIBxf",
+            "category": "嘉義",
+            "unit": "套",
+            "day_num": 1,
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱點",
+            "origin_price": 6000,
+            "price": 5888,
+            "description": "國立故宮博物院南部院區建築融合中國水墨畫技法，象徵亞洲文明多元交織，主體建築呼應「龍」、「象」、「馬」文化，景觀橋以草書形式引導遊客獨特舒適的步行體驗。高跟鞋教堂高17m，全球唯一，320片不同角度的精美玻璃象徵每個女孩的夢想與優雅人生。",
+            "content": "Day1 早上 國立故宮博物院南部院區;\nDay1 下午 高跟鞋教堂;",
+            "is_enabled": 1,
+            "imageUrl": "./img/pic-mesum.jpg",
+            "creationDate": "2024-03-01",
+            "startDate": "2024-03-01",
+            "endDate": "2024-03-31",
+            "max_travelers": 15,
+            "goStartDate": "2024-04-19",
+            "goEndDate": "2024-04-19"
+          }
+        }
+      ],
+      "total": 5888,
+      "final_total": 5888,
+      "status": true,
+      "userId": 6,
+      "orderStatus": false,
+      "id": 12,
+      "orderId": 13
+    },
+    {
+      "data": [
+        {
+          "productId": "KvBuohr",
+          "qty": 1,
+          "price": 1888,
+          "total": 1888,
+          "userId": 7,
+          "final_total": 1888,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "壽山動物園",
+                "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
+                "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
+                "itinerary_first_day_pm_content": "高10公尺、寬16公尺、深達9公尺，是由藝術家林舜龍與法國聲音藝術家葉澎生攜手耗時6年打造而成。其以金色為主色，半圓形海貝殼為造型，藉由不同角度的陽光照射，展現深淺不一的黃金色澤，不僅是旗津海岸公園的地標之一，更是亞洲最大的貝殼裝置藝術。"
+              }
+            ],
+            "imageUrl": "./products/zoo.jpg",
+            "imagesUrl": [
+              "./products/zoo.jpg",
+              "./img/pic-cijin shells.jpg"
+            ],
+            "title": "旗津踩風一日遊",
+            "category": "高雄",
+            "unit": "套",
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱戀",
+            "origin_price": 2000,
+            "price": 1888,
+            "day_num": 1,
+            "content": "Day1 早上 壽山動物園;Day1 下午 旗津黃金海韻-海珍珠",
+            "is_enabled": 1,
+            "id": "KvBuohr",
+            "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
+            "creationDate": "2024-02-12",
+            "startDate": "2024-02-12",
+            "endDate": "2024-04-07",
+            "max_travelers": 10,
+            "goStartDate": "2024-04-23",
+            "goEndDate": "2024-04-23"
+          }
+        }
+      ],
+      "total": 1888,
+      "final_total": 1888,
+      "status": true,
+      "userId": 7,
+      "orderStatus": false,
+      "id": 13,
+      "orderId": 14
     }
   ],
   "order": [
@@ -855,7 +1436,9 @@
         "payMethod": "貨到付款"
       },
       "id": 1,
-      "status": false
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
     },
     {
       "user": {
@@ -872,7 +1455,233 @@
         "payMethod": "貨到付款"
       },
       "id": 2,
-      "status": false
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "TT",
+        "email": "TT",
+        "tel": "12",
+        "address": "FF",
+        "birthday": "2024-01-01",
+        "comment": "TT",
+        "shippingMethod": "超商取貨",
+        "userId": 4,
+        "cartDataId": 2,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 3,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "sdfdsfdsf",
+        "email": "dfsdfsd",
+        "tel": "1111",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "宅配",
+        "userId": 5,
+        "cartDataId": 3,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 4,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "dsfsdfdsf",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 5,
+        "cartDataId": 4,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 5,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "W",
+        "email": "W@gmail.com",
+        "tel": "123",
+        "address": "Kaoh",
+        "birthday": "2021-01-02",
+        "comment": "W",
+        "shippingMethod": "超商取貨",
+        "userId": 6,
+        "cartDataId": 5,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 6,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "TEWTRT",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 6,
+        "cartDataId": 6,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 7,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "TESTT",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 6,
+        "cartDataId": 7,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 8,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "emu",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 6,
+        "cartDataId": 8,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 9,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "rrrrr",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 6,
+        "cartDataId": 9,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 10,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "dcdc",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 6,
+        "cartDataId": 10,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 11,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "zczxc",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 6,
+        "cartDataId": 11,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 12,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "dzfzd",
+        "email": "",
+        "tel": "",
+        "address": "",
+        "birthday": "",
+        "comment": "",
+        "shippingMethod": "",
+        "userId": 6,
+        "cartDataId": 12,
+        "status": true,
+        "payMethod": "貨到付款"
+      },
+      "id": 13,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "name": "TEST66@gmail.com",
+        "email": "TEST66@gmail.com",
+        "tel": "12345678",
+        "address": "Kaoh",
+        "birthday": "2024-03-18",
+        "comment": "TEST66@gmail.com",
+        "shippingMethod": "超商取貨",
+        "userId": 7,
+        "cartDataId": 13,
+        "status": false
+      },
+      "id": 14
     }
   ]
 }
