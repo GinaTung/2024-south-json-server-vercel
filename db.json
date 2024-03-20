@@ -1390,13 +1390,13 @@
         "passport": "B123456789",
         "memberId": "C123456789",
         "appellation": "male",
-        "status": false,
+        "status": true,
         "payMethod": "帳號匯款"
       },
       "id": 1,
-      "status": false,
-      "billStatus": false,
-      "transportStatus": false
+      "status": true,
+      "billStatus": true,
+      "checkDataStatus": true
     },
     {
       "user": {
@@ -1413,13 +1413,13 @@
         "passport": "B123456789",
         "memberId": "C123456789",
         "appellation": "male",
-        "status": false,
+        "status": true,
         "payMethod": "帳號匯款"
       },
       "id": 2,
       "status": false,
       "billStatus": false,
-      "transportStatus": false
+      "checkDataStatus": true
     },
     {
       "user": {
@@ -1436,13 +1436,13 @@
         "passport": "B123456789",
         "memberId": "C123456789",
         "appellation": "male",
-        "status": false,
+        "status": true,
         "payMethod": "帳號匯款"
       },
       "id": 3,
       "status": false,
-      "billStatus": false,
-      "transportStatus": false
+      "billStatus": true,
+      "checkDataStatus": true
     },
     {
       "user": {
@@ -1459,13 +1459,13 @@
         "passport": "B123456789",
         "memberId": "C123456789",
         "appellation": "male",
-        "status": false,
+        "status": true,
         "payMethod": "帳號匯款"
       },
       "id": 4,
       "status": false,
       "billStatus": false,
-      "transportStatus": false
+      "checkDataStatus": false
     },
     {
       "user": {
@@ -1488,7 +1488,7 @@
       "id": 5,
       "status": false,
       "billStatus": false,
-      "transportStatus": false
+      "checkDataStatus": false
     },
     {
       "user": {
@@ -1511,7 +1511,7 @@
       "id": 6,
       "status": false,
       "billStatus": false,
-      "transportStatus": false
+      "checkDataStatus": false
     },
     {
       "user": {
@@ -1534,7 +1534,7 @@
       "id": 7,
       "status": false,
       "billStatus": false,
-      "transportStatus": false
+      "checkDataStatus": false
     },
     {
       "user": {
@@ -1557,7 +1557,7 @@
       "id": 8,
       "status": false,
       "billStatus": false,
-      "transportStatus": false
+      "checkDataStatus": false
     },
     {
       "user": {
