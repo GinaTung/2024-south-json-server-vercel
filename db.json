@@ -15,6 +15,14 @@
       "tel": "0712345678",
       "role": "user",
       "id": 4
+    },
+    {
+      "email": "tiger@gmail.com",
+      "password": "$2a$10$fFULA564iFvkbXyaxJLeZOpSKDiKDQApyUdE/cuuYnX.G4NDI1MzG",
+      "name": "Tiger",
+      "tel": "0712345678",
+      "role": "user",
+      "id": 5
     }
   ],
   "posts": [
@@ -1093,6 +1101,103 @@
       "orderStatus": false,
       "id": 7,
       "orderId": 6
+    },
+    {
+      "data": [
+        {
+          "productId": "2Ss0Yws",
+          "qty": 1,
+          "price": 2399,
+          "total": 2399,
+          "userId": 5,
+          "final_total": 2399,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "嘉義公園",
+                "itinerary_first_day_am_content": "嘉義公園位在嘉義市東郊，始建之初，依山仔頂山勢開闢園地，後來又拓寬東西邊的空地，築橋修路，計公園面積約268,000多平方公尺，園內古木參天，涼亭水榭，假山魚池，曲徑通幽，因為利用自然山水，風景雅緻，可謂逍遙勝地。\n\n公園內有忠烈祠、射日塔、福康安紀功碑、丙午震災紀念碑、十二門古砲、陳澄波畫架、牆之道、一江山紀念碑、孔廟以及國寶級的阿里山森林鐵道21號蒸汽火車頭等史蹟，為民眾休閒好去處。此外，位在公園東北隅的林業、農業兩試驗分所，場中遍植多種熱帶植物，濃蔭逐暑，綠葉搖風，亦值得順道一遊。",
+                "itinerary_first_day_pm_title": "嘉義樹木園",
+                "itinerary_first_day_pm_content": "佔地約8.6公頃的樹木園隸屬於農業部林業試驗所，為熱帶經濟樹種之栽植試驗地，兼以母樹園之形態經營，栽植之樹木多屬人文特色的植物，如著名的桃花心木、肯氏南洋杉、黑板樹、巴西橡膠樹…等。\n\n園區內群樹挺拔林立，自然樸實中充分呈現林場的幽靜氣息，小徑蜿蜒，林蔭蒼鬱，古樸的「林場風清」嘉義八景之一的石碑，訴說本園享有的美譽。"
+              }
+            ],
+            "imagesUrl": [
+              "./img/attraction1-1.jpg",
+              "./products/pic-tree-chi.jpg"
+            ],
+            "title": "嘉義市區一日遊",
+            "id": "2Ss0Yws",
+            "category": "嘉義",
+            "unit": "套",
+            "tag_1": "一日遊",
+            "tag_2": "生態體驗",
+            "origin_price": 2500,
+            "price": 2399,
+            "day_num": 1,
+            "description": "嘉義公園位於東郊，268,000多平方公尺，風景雅緻，古木涼亭，有忠烈祠、射日塔、陳澄波畫架等歷史古蹟。公園東北的樹木園，8.6公頃，種植桃花心木、南洋杉等特色樹木，展現林場幽靜氣息。",
+            "content": "Day1 早上 嘉義公園;\nDay1 下午 嘉義樹木園;",
+            "is_enabled": 1,
+            "imageUrl": "./img/attraction1-1.jpg",
+            "creationDate": "2024-02-19",
+            "startDate": "2024-02-19",
+            "endDate": "2024-03-31",
+            "max_travelers": 8,
+            "goStartDate": "2024-04-21",
+            "goEndDate": "2024-04-21"
+          }
+        },
+        {
+          "productId": "KvBuohr",
+          "qty": 2,
+          "price": 1888,
+          "total": 3776,
+          "userId": 5,
+          "final_total": 3776,
+          "id": 4,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "壽山動物園",
+                "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
+                "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
+                "itinerary_first_day_pm_content": "高10公尺、寬16公尺、深達9公尺，是由藝術家林舜龍與法國聲音藝術家葉澎生攜手耗時6年打造而成。其以金色為主色，半圓形海貝殼為造型，藉由不同角度的陽光照射，展現深淺不一的黃金色澤，不僅是旗津海岸公園的地標之一，更是亞洲最大的貝殼裝置藝術。"
+              }
+            ],
+            "imageUrl": "./products/zoo.jpg",
+            "imagesUrl": [
+              "./products/zoo.jpg",
+              "./img/pic-cijin shells.jpg"
+            ],
+            "title": "旗津踩風一日遊",
+            "category": "高雄",
+            "unit": "套",
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱戀",
+            "origin_price": 2000,
+            "price": 1888,
+            "day_num": 1,
+            "content": "Day1 早上 壽山動物園;Day1 下午 旗津黃金海韻-海珍珠",
+            "is_enabled": 1,
+            "id": "KvBuohr",
+            "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
+            "creationDate": "2024-02-12",
+            "startDate": "2024-02-12",
+            "endDate": "2024-04-07",
+            "max_travelers": 10,
+            "goStartDate": "2024-04-23",
+            "goEndDate": "2024-04-23"
+          }
+        }
+      ],
+      "total": 6175,
+      "final_total": 6175,
+      "status": true,
+      "userId": 5,
+      "orderStatus": false,
+      "id": 8,
+      "orderId": 7
     }
   ],
   "orders": [
@@ -1107,7 +1212,7 @@
         "shippingMethod": "超商取貨",
         "userId": 4,
         "cartDataId": 2,
-        "status": true,
+        "status": false,
         "payMethod": "貨到付款"
       },
       "id": 1,
@@ -1126,7 +1231,7 @@
         "shippingMethod": "超商取貨",
         "userId": 4,
         "cartDataId": 3,
-        "status": true,
+        "status": false,
         "payMethod": "貨到付款"
       },
       "id": 2,
@@ -1145,7 +1250,7 @@
         "shippingMethod": "超商取貨",
         "userId": 4,
         "cartDataId": 4,
-        "status": true,
+        "status": false,
         "payMethod": "貨到付款"
       },
       "id": 3,
@@ -1165,7 +1270,7 @@
         "shippingMethod": "宅配",
         "userId": 4,
         "cartDataId": 5,
-        "status": true,
+        "status": false,
         "payMethod": "貨到付款"
       },
       "id": 4,
@@ -1185,7 +1290,7 @@
         "shippingMethod": "宅配",
         "userId": 4,
         "cartDataId": 6,
-        "status": true,
+        "status": false,
         "payMethod": "信用卡"
       },
       "id": 5,
@@ -1205,10 +1310,30 @@
         "shippingMethod": "超商取貨",
         "userId": 4,
         "cartDataId": 7,
-        "status": true,
+        "status": false,
         "payMethod": "貨到付款"
       },
       "id": 6,
+      "status": false,
+      "billStatus": false,
+      "transportStatus": false
+    },
+    {
+      "user": {
+        "create_at": "2024-03-20T10:23:08.491Z",
+        "name": "Tiger",
+        "email": "Tiger@gmail.com",
+        "tel": "0712345678",
+        "address": "高雄市老虎區",
+        "birthday": "2023-11-30",
+        "comment": "Tiger",
+        "shippingMethod": "超商取貨",
+        "userId": 5,
+        "cartDataId": 8,
+        "status": false,
+        "payMethod": "信用卡"
+      },
+      "id": 7,
       "status": false,
       "billStatus": false,
       "transportStatus": false
