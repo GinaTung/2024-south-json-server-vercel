@@ -1132,6 +1132,309 @@
       "orderStatus": false,
       "id": 11,
       "orderId": 10
+    },
+    {
+      "data": [
+        {
+          "productId": "-c35c4Q9gWLGb7p4aWAM4",
+          "qty": 2,
+          "price": 6380,
+          "total": 12760,
+          "userId": 5,
+          "final_total": 12760,
+          "id": 3,
+          "product": {
+            "category": "嘉義",
+            "tag_1": "雙日遊",
+            "tag_2": "鐵道之旅",
+            "day_num": 2,
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "阿里山森林鐵路",
+                "itinerary_first_day_am_content": "全線自海拔30公尺的嘉義，一路爬升至2,216公尺高的阿里山，全程經過47個隧道、72座橋，沿途可欣賞熱、暖、溫等不同森林帶之植物種類變化與美麗的山脈、溪谷。",
+                "itinerary_first_day_pm_title": "阿里山森林遊樂園",
+                "itinerary_first_day_pm_content": "阿里山共由十八座高山組成，屬於玉山山脈的支脈，隔同富溪與玉山主峰相望，現在新中橫公路已將阿里山與玉山風景區串連起來。阿里山森林遊樂區海拔高度2,216公尺，四周高山環列，氣候涼爽，以日出、雲海、晚霞、森林、登山森林鐵路並列為阿里山五奇，聞名國際。而鄒族原住民人文資源更增其觀光魅力。"
+              },
+              {
+                "second_day_title": "第二天",
+                "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
+                "itinerary_second_day_am_content": "因應日漸成熟之旅遊風潮與國內旅遊市場的廣大需求，基於帶動大阿里山地區的觀光發展及資源保育需要，「阿里山國家風景區管理處成立並專責執行觀光事業規劃建設與經營管理工作，俾以服務大阿里山地區之遊客人潮，並希望能藉由遊憩品質提升，協助地方觀光產業的蓬勃發展。",
+                "itinerary_second_day_pm_title": "奮起湖風景區",
+                "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
+              }
+            ],
+            "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
+            "itinerary_description": "1",
+            "id": "-c35c4Q9gWLGb7p4aWAM4",
+            "is_enabled": 1,
+            "origin_price": 6600,
+            "price": 6380,
+            "title": "阿里山芬多精之雙日遊",
+            "unit": "套",
+            "num": 1,
+            "imageUrl": "./products/pic-tree-2.jpg",
+            "imagesUrl": [
+              "./products/pic-tree-2.jpg",
+              "./img/pic-tree.jpg",
+              "./products/pic-tree-1.jpg",
+              "./products/pic-train.jpg"
+            ],
+            "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
+            "content": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區",
+            "creationDate": "2024-02-01",
+            "startDate": "2024-02-01",
+            "endDate": "2024-03-31",
+            "goStartDate": "2024-04-15",
+            "goEndDate": "2024-04-16",
+            "max_travelers": 15
+          }
+        },
+        {
+          "productId": "KvBuohr",
+          "qty": 1,
+          "price": 1888,
+          "total": 1888,
+          "userId": 5,
+          "final_total": 1888,
+          "id": 4,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "壽山動物園",
+                "itinerary_first_day_am_content": "壽山動物園內透過植栽柔化邊界，設置空中廊道穿梭在動物的棲地上，兩旁隨之增高的網狀藩籬，讓遊客隱身其中並可從高處觀看動物們的互動，走進豎立於空橋的2座挑高山屋，與懸掛空橋下的4座動物觀察廊道，透過大面積的落地玻璃，能夠看見貼近牠們原生的棲地環境，看見水豚愜意地泡湯、獅子慵懶地曬太陽，或是台灣黑熊自在地磨蹭樹幹抓癢，各種動物可愛真實的樣貌，讓人彷彿走進動物的家，多重體驗牠們的生活空間。",
+                "itinerary_first_day_pm_title": "旗津黃金海韻-海珍珠",
+                "itinerary_first_day_pm_content": "高10公尺、寬16公尺、深達9公尺，是由藝術家林舜龍與法國聲音藝術家葉澎生攜手耗時6年打造而成。其以金色為主色，半圓形海貝殼為造型，藉由不同角度的陽光照射，展現深淺不一的黃金色澤，不僅是旗津海岸公園的地標之一，更是亞洲最大的貝殼裝置藝術。"
+              }
+            ],
+            "imageUrl": "./products/zoo.jpg",
+            "imagesUrl": [
+              "./products/zoo.jpg",
+              "./img/pic-cijin shells.jpg"
+            ],
+            "title": "壽山動物園‧旗津踩風一日遊",
+            "category": "高雄",
+            "unit": "套",
+            "tag_1": "一日遊",
+            "tag_2": "打卡熱戀",
+            "origin_price": 2000,
+            "price": 1888,
+            "day_num": 1,
+            "content": "Day1 早上 壽山動物園;Day1 下午 旗津黃金海韻-海珍珠",
+            "is_enabled": 1,
+            "id": "KvBuohr",
+            "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
+            "creationDate": "2024-02-12",
+            "startDate": "2024-02-12",
+            "endDate": "2024-04-07",
+            "max_travelers": 10,
+            "goStartDate": "2024-04-23",
+            "goEndDate": "2024-04-23"
+          }
+        }
+      ],
+      "total": 14648,
+      "final_total": 14648,
+      "status": true,
+      "userId": 5,
+      "orderStatus": false,
+      "id": 12,
+      "orderId": 11
+    },
+    {
+      "data": [
+        {
+          "productId": "GDwTM-i",
+          "qty": 1,
+          "price": 4399,
+          "total": 4399,
+          "userId": 5,
+          "final_total": 4399,
+          "id": 4,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "北門遊客中心",
+                "itinerary_first_day_am_content": "雲嘉南濱海國家風景區北門遊客中心是由北門洗滌鹽工廠舊建物群中的西南側倉庫群所改建，外觀仍保留著原工廠山牆斜屋頂造型。\n\n全館佈設由北而南以地理分區概念介紹雲嘉南濱海國家風景區的景點，並整合區內「鹽業歷史」、「溼地生態」、「宗教人文」、「地方產業」與「文學藝術」等觀光資源，規劃主題區介紹與多媒體互動區。",
+                "itinerary_first_day_pm_title": "水晶教堂",
+                "itinerary_first_day_pm_content": "水晶教堂位於「豬屠溝」源頭北畔，此地昔為洲北鹽田與中洲鹽田交界。西濱空曠平坦，早年以鹽田為最大地景，突出於地表者為鹽堆，水晶教堂即以鹽堆之大堆連結小堆為造形意象，以鹽的白色為主色調，並取結晶鹽的晶瑩剔透為其發想，結合曾經撫慰無數烏腳病患的教會意念，乃有此名。"
+              },
+              {
+                "second_day_title": "第二天",
+                "itinerary_second_day_am_title": "七股潟湖",
+                "itinerary_second_day_am_content": "七股漁民口中的內海仔，指的就是七股潟湖，由於曾文溪的四次改道而造成今日的潟湖景觀，這是目前臺灣最大的一個潟湖。此處的生態資源非常豐富，單單螃蟹就有三十種以上，魚蝦貝類更多達兩百種以上，是本地兩萬居民生計的所在。附近的龍山村大街上到處可以看到海產和鮮蚵的料理，喜歡海鮮的人不能錯過。另外，在潟湖區鳥類景觀豐富，也可安排賞鳥、遊紅樹林和賞蟹的生態之旅。",
+                "itinerary_second_day_pm_title": "七股鹽山",
+                "itinerary_second_day_pm_content": "七股鹽場過去是臺灣最大的曬鹽場，主要供應國內農工業用鹽，隨時代變遷，曬鹽不符經濟效益，七股鹽場遂於民國91年（西元2002年）5月廢曬，結束臺灣338年曬鹽歷史，七股鹽山的休閒遊憩時代隨之開啟。\n\n七股鹽山占地面積廣達一公頃，約六層樓高的皚皚鹽峰聳立於七股，蔚為奇觀。臺鹽公司融合傳統與創新，揉捻鹽業史、文化創意、產業與健康理念，在園區內多元展現鹽業發展：鹽山主峰、鹽如玉展示館、曬鹽體驗區、鹽屋、骨董機械展示區、遊園小火車等獨樹一幟的鹽主題觀光園區，寓教於樂，成為國內、外人士最常指定的知名觀光據點。"
+              }
+            ],
+            "imagesUrl": [
+              "./products/pic-taiwan-cen.jpg",
+              "./img/pic-church.jpg",
+              "./products/pic-lake.jpg",
+              "./products/pic-salt.jpg"
+            ],
+            "title": "臺南七股北門雙日遊",
+            "category": "台南",
+            "unit": "套",
+            "tag_1": "雙日遊",
+            "id": "GDwTM-i",
+            "tag_2": "親子共遊",
+            "origin_price": 4500,
+            "price": 4399,
+            "day_num": 2,
+            "description": "七股潟湖是臺灣最大的潟湖，生態豐富，有30種以上螃蟹和200種以上魚蝦貝類，是兩萬居民生計所在。潟湖區鳥類景觀豐富，可賞鳥、遊紅樹林和賞蟹。七股鹽山曾為臺灣最大曬鹽場，於2002年結束338年曬鹽歷史，現成為知名觀光據點。",
+            "content": "Day1 早上 北門遊客中心;Day1 下午 水晶教堂;\nDay2 早上 七股潟湖;Day2 下午 七股鹽山;",
+            "is_enabled": 1,
+            "imageUrl": "./products/pic-lake.jpg",
+            "creationDate": "2024-03-04",
+            "startDate": "2024-03-04",
+            "endDate": "2024-05-08",
+            "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E5%8F%B0%E5%8D%97/%E8%87%BA%E5%8D%97%E4%B8%83%E8%82%A1%E5%8C%97%E9%96%80%E9%9B%99%E6%97%A5%E9%81%8A",
+            "max_travelers": 10,
+            "goStartDate": "2024-05-15",
+            "goEndDate": "2024-05-16"
+          }
+        }
+      ],
+      "total": 4399,
+      "final_total": 4399,
+      "status": true,
+      "userId": 5,
+      "orderStatus": false,
+      "id": 13,
+      "orderId": 11
+    },
+    {
+      "data": [
+        {
+          "productId": "-c35c4Q9gWLGb7p4aWAM4",
+          "qty": 1,
+          "price": 6380,
+          "total": 6380,
+          "userId": 5,
+          "final_total": 6380,
+          "id": 3,
+          "product": {
+            "category": "嘉義",
+            "tag_1": "雙日遊",
+            "tag_2": "鐵道之旅",
+            "day_num": 2,
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "阿里山森林鐵路",
+                "itinerary_first_day_am_content": "全線自海拔30公尺的嘉義，一路爬升至2,216公尺高的阿里山，全程經過47個隧道、72座橋，沿途可欣賞熱、暖、溫等不同森林帶之植物種類變化與美麗的山脈、溪谷。",
+                "itinerary_first_day_pm_title": "阿里山森林遊樂園",
+                "itinerary_first_day_pm_content": "阿里山共由十八座高山組成，屬於玉山山脈的支脈，隔同富溪與玉山主峰相望，現在新中橫公路已將阿里山與玉山風景區串連起來。阿里山森林遊樂區海拔高度2,216公尺，四周高山環列，氣候涼爽，以日出、雲海、晚霞、森林、登山森林鐵路並列為阿里山五奇，聞名國際。而鄒族原住民人文資源更增其觀光魅力。"
+              },
+              {
+                "second_day_title": "第二天",
+                "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
+                "itinerary_second_day_am_content": "因應日漸成熟之旅遊風潮與國內旅遊市場的廣大需求，基於帶動大阿里山地區的觀光發展及資源保育需要，「阿里山國家風景區管理處成立並專責執行觀光事業規劃建設與經營管理工作，俾以服務大阿里山地區之遊客人潮，並希望能藉由遊憩品質提升，協助地方觀光產業的蓬勃發展。",
+                "itinerary_second_day_pm_title": "奮起湖風景區",
+                "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
+              }
+            ],
+            "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
+            "itinerary_description": "1",
+            "id": "-c35c4Q9gWLGb7p4aWAM4",
+            "is_enabled": 1,
+            "origin_price": 6600,
+            "price": 6380,
+            "title": "阿里山芬多精之雙日遊",
+            "unit": "套",
+            "num": 1,
+            "imageUrl": "./products/pic-tree-2.jpg",
+            "imagesUrl": [
+              "./products/pic-tree-2.jpg",
+              "./img/pic-tree.jpg",
+              "./products/pic-tree-1.jpg",
+              "./products/pic-train.jpg"
+            ],
+            "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
+            "content": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區",
+            "creationDate": "2024-02-01",
+            "startDate": "2024-02-01",
+            "endDate": "2024-03-31",
+            "goStartDate": "2024-04-15",
+            "goEndDate": "2024-04-16",
+            "max_travelers": 15
+          }
+        }
+      ],
+      "total": 6380,
+      "final_total": 6380,
+      "status": true,
+      "userId": 5,
+      "orderStatus": false,
+      "id": 14,
+      "orderId": 13
+    },
+    {
+      "data": [
+        {
+          "productId": "ymbfYtq",
+          "qty": 2,
+          "price": 7500,
+          "total": 15000,
+          "userId": 5,
+          "final_total": 15000,
+          "id": 3,
+          "product": {
+            "itinerary_data": [
+              {
+                "first_day_title": "第一天",
+                "itinerary_first_day_am_title": "大崗山自然生態區",
+                "itinerary_first_day_am_content": "生態園區面積八十公頃，園區中有多條曲折通幽的林蔭步道連結，以造形各異的美麗涼亭、平台提供遊客休憩賞景。挺拔的綠竹、相思樹林、羊蹄甲、櫻花道、黃金風鈴木…在步道旁依四季時序開放，沿途觀賞大崗山生態之美，荷花點點的生態池則是觀察鳥類及水中生物最佳的地點。",
+                "itinerary_first_day_pm_title": "石母乳與一線天",
+                "itinerary_first_day_pm_content": "山區的石灰岩壁千百年來經過岩融過程，岩壁的紋理如同飛瀑流動，景緻奇幻，碧水洞後的石灰岩沈積物經過漫長歲月形成鐘乳石，終年滴水不斷的奇特景觀被當地人稱之為石母乳。\n\n走過石母乳旁的山中棧道，像劈裂天地般的高達二至三公尺的峽谷聳立眼前，頗有大自然開天闢地的壯闊感。相傳在明朝年間大崗山忽然發出「山鳴」，山脊自南向北龜裂，形成這道長約百米的山溝，由於入內仰望可見天空自成一線，故名「一線天」。"
+              },
+              {
+                "second_day_title": "第二天",
+                "itinerary_second_day_am_title": "田寮月世界",
+                "itinerary_second_day_am_content": "田寮「月世界」特殊景觀在地理學上稱為「惡地」，是由於地殼的「回春作用」，經年累月的經由雨水與河水強烈侵蝕，將泥沙堆積在泥岩上，地層變動後，泥沙更與泥岩混合再經由風化、沉積作用，形成今日地貌，僅適於耐旱、耐鹽的淺根植物（如：箭竹）、濱海植物生長。",
+                "itinerary_second_day_pm_title": "泥火山小滾水奇景",
+                "itinerary_second_day_pm_content": "從田寮到旗山台28線沿路除了月世界景觀，還有大小不等的二十多個泥火山，常呈現間歇性的噴發現象，噴發的規模則視地底天然氣與泥漿的累積壓力而定，噴發後的泥流堆積地區，經降雨沖蝕，產生一些特殊的小地形，其中大滾水與小滾水是觀察泥火山最方便的地點。"
+              }
+            ],
+            "imagesUrl": [
+              "./products/pic-mountain-3.jpg",
+              "./products/pic-mountain-2.jpg",
+              "./products/pic-mountain-1.jpg",
+              "./products/pic-mountain-4.jpg"
+            ],
+            "title": "大岡山、月世界雙日遊",
+            "tag_1": "雙日遊",
+            "category": "高雄",
+            "unit": "套",
+            "id": "ymbfYtq",
+            "tag_2": "親子體驗",
+            "origin_price": 8000,
+            "price": 7500,
+            "day_num": 2,
+            "is_enabled": 1,
+            "content": "Day1 早上 大崗山自然生態區;Day1 下午 石母乳與一線天;\nDay2 早上 田寮月世界;Day2 下午 泥火山小滾水奇景;",
+            "description": "大崗山生態區面積80公頃，擁有曲折通幽的步道、美麗涼亭、生態池和石母乳景觀。石母乳與一線天展現石灰岩的奇幻紋理，石母乳為終年滴水景觀。大崗山一線天形成於明朝，是壯闊的天然峽谷。田寮月世界為地理學上的「惡地」，由泥沙與泥岩混合而成。從田寮到旗山台28線沿路有大小泥火山，展現間歇性的噴發現象，特殊小地形如大滾水與小滾水。",
+            "imageUrl": "./products/pic-mountain-1.jpg",
+            "creationDate": "2024-03-10",
+            "startDate": "2024-03-10",
+            "endDate": "2024-05-10",
+            "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E9%AB%98%E9%9B%84/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E3%80%81%E6%9C%88%E4%B8%96%E7%95%8C%E9%9B%99%E6%97%A5%E9%81%8A",
+            "max_travelers": 10,
+            "goStartDate": "2024-05-20",
+            "goEndDate": "2024-05-21"
+          }
+        }
+      ],
+      "total": 15000,
+      "final_total": 15000,
+      "status": true,
+      "userId": 5,
+      "orderStatus": false,
+      "id": 15,
+      "orderId": 14
     }
   ],
   "orders": [
@@ -1269,6 +1572,93 @@
         "payMethod": "帳號匯款"
       },
       "id": 10,
+      "status": false,
+      "billStatus": false,
+      "checkDataStatus": false
+    },
+    {
+      "user": {
+        "create_at": "2024-03-31T14:20:54.420Z",
+        "name": "tiget",
+        "email": "tiger@gmail.com",
+        "tel": "0912345678",
+        "address": "台北市信義區忠孝東路",
+        "birthday": "2006-01-01",
+        "comment": "",
+        "shippingMethod": "電子郵件",
+        "userId": 5,
+        "cartDataId": 12,
+        "passport": "",
+        "memberId": "A123456789",
+        "appellation": "",
+        "status": false,
+        "payMethod": "帳號匯款"
+      },
+      "id": 11,
+      "status": false,
+      "billStatus": false,
+      "checkDataStatus": false
+    },
+    {
+      "user": {
+        "create_at": "2024-03-31T14:57:34.617Z",
+        "name": "tiget",
+        "email": "tiger@gmail.com",
+        "tel": "0912345678",
+        "address": "台北市信義區忠孝東路",
+        "birthday": "2006-01-01",
+        "comment": "",
+        "shippingMethod": "郵寄",
+        "passport": "123456789",
+        "memberId": "A123456789",
+        "appellation": "male",
+        "cartDataId": 13,
+        "status": false
+      },
+      "id": 12
+    },
+    {
+      "user": {
+        "create_at": "2024-03-31T15:03:43.274Z",
+        "name": "tiget",
+        "email": "tiger@gmail.com",
+        "tel": "0912345678",
+        "address": "台北市信義區忠孝東路",
+        "birthday": "2006-01-01",
+        "comment": "",
+        "shippingMethod": "電子郵件",
+        "userId": 5,
+        "cartDataId": 14,
+        "passport": "123456789",
+        "memberId": "A123456789",
+        "appellation": "",
+        "status": false,
+        "payMethod": "帳號匯款"
+      },
+      "id": 13,
+      "status": false,
+      "billStatus": false,
+      "checkDataStatus": false
+    },
+    {
+      "user": {
+        "create_at": "2024-03-31T17:27:30.035Z",
+        "name": "cat Dong",
+        "email": "tiger@gmail.com",
+        "tel": "0911234567",
+        "address": "台北市信義區忠孝東路走九遍",
+        "birthday": "2006-01-05",
+        "comment": "",
+        "shippingMethod": "郵寄",
+        "userId": 5,
+        "cartDataId": 15,
+        "passport": "123456782",
+        "memberId": "B123456780",
+        "appellation": "female",
+        "status": false,
+        "payMethod": "信用卡付款"
+      },
+      "id": 14,
       "status": false,
       "billStatus": false,
       "checkDataStatus": false
