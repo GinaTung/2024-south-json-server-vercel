@@ -1645,6 +1645,7 @@
     },
     {
       "user": {
+        "status": true,
         "create_at": "2024-03-20",
         "name": "Tiger",
         "email": "tiger@gmail.com",
@@ -1658,13 +1659,12 @@
         "passport": "A123456789",
         "memberId": "E123456789",
         "appellation": "female",
-        "status": false,
         "payMethod": "帳號匯款"
       },
       "id": 9,
       "status": false,
       "billStatus": false,
-      "checkDataStatus": false
+      "checkDataStatus": true
     },
     {
       "user": {
@@ -1681,7 +1681,7 @@
         "passport": "A123456789",
         "memberId": "E123456789",
         "appellation": "female",
-        "status": false,
+        "status": true,
         "payMethod": "帳號匯款"
       },
       "id": 10,
@@ -1691,7 +1691,8 @@
     },
     {
       "user": {
-        "create_at": "2024-03-31T14:20:54.420Z",
+        "status": true,
+        "create_at": "2024-03-31",
         "name": "tiget",
         "email": "tiger@gmail.com",
         "tel": "0912345678",
@@ -1704,17 +1705,17 @@
         "passport": "",
         "memberId": "A123456789",
         "appellation": "",
-        "status": false,
         "payMethod": "帳號匯款"
       },
       "id": 11,
       "status": false,
-      "billStatus": false,
-      "checkDataStatus": false
+      "billStatus": true,
+      "checkDataStatus": true
     },
     {
       "user": {
-        "create_at": "2024-03-31T14:57:34.617Z",
+        "status": true,
+        "create_at": "2024-03-31",
         "name": "tiget",
         "email": "tiger@gmail.com",
         "tel": "0912345678",
@@ -1725,10 +1726,12 @@
         "passport": "123456789",
         "memberId": "A123456789",
         "appellation": "male",
-        "cartDataId": 13,
-        "status": false
+        "cartDataId": 13
       },
-      "id": 12
+      "id": 12,
+      "billStatus": true,
+      "checkDataStatus": true,
+      "status": true
     },
     {
       "user": {
