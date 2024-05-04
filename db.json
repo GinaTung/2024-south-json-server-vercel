@@ -1423,11 +1423,11 @@
       "data": [
         {
           "productId": "-c35c4Q9gWLGb7p4aWAM4",
-          "qty": 1,
+          "qty": 3,
           "price": 6380,
           "total": 6380,
           "userId": 5,
-          "final_total": 6380,
+          "final_total": 19140,
           "id": 3,
           "product": {
             "category": "嘉義",
@@ -1439,15 +1439,19 @@
                 "first_day_title": "第一天",
                 "itinerary_first_day_am_title": "阿里山森林鐵路",
                 "itinerary_first_day_am_content": "全線自海拔30公尺的嘉義，一路爬升至2,216公尺高的阿里山，全程經過47個隧道、72座橋，沿途可欣賞熱、暖、溫等不同森林帶之植物種類變化與美麗的山脈、溪谷。",
-                "itinerary_first_day_pm_title": "阿里山森林遊樂園",
-                "itinerary_first_day_pm_content": "阿里山共由十八座高山組成，屬於玉山山脈的支脈，隔同富溪與玉山主峰相望，現在新中橫公路已將阿里山與玉山風景區串連起來。阿里山森林遊樂區海拔高度2,216公尺，四周高山環列，氣候涼爽，以日出、雲海、晚霞、森林、登山森林鐵路並列為阿里山五奇，聞名國際。而鄒族原住民人文資源更增其觀光魅力。"
+                "itinerary_first_day_pm_title": "觸口天長地久橋",
+                "itinerary_first_day_pm_content": "台18線34K觸口橋之北側即「地久」吊橋。過了地久橋，沿階梯往上走就會抵達「天長」吊橋。\n兩橋橫跨八掌溪上游溪谷，在青山綠水襯映下，相當耀眼。天長和地久兩座吊橋建於日治時期昭和十二年（1937年），落成時以紀念天長節（日本天皇生日）和地久節（皇后生日）而命名。雖然過往的遊客眾多，但知曉典故的卻不多，倒是與「天長地久」有情人終成眷屬的傳說形成佳話。",
+                "itinerary_first_day_pm_title2": "阿里山森林遊樂園",
+                "itinerary_first_day_pm_content2": "阿里山共由十八座高山組成，屬於玉山山脈的支脈，隔同富溪與玉山主峰相望，現在新中橫公路已將阿里山與玉山風景區串連起來。阿里山森林遊樂區海拔高度2,216公尺，四周高山環列，氣候涼爽，以日出、雲海、晚霞、森林、登山森林鐵路並列為阿里山五奇，聞名國際。而鄒族原住民人文資源更增其觀光魅力。"
               },
               {
                 "second_day_title": "第二天",
                 "itinerary_second_day_am_title": "阿里山國家風景區-觸口遊客中心",
                 "itinerary_second_day_am_content": "因應日漸成熟之旅遊風潮與國內旅遊市場的廣大需求，基於帶動大阿里山地區的觀光發展及資源保育需要，「阿里山國家風景區管理處成立並專責執行觀光事業規劃建設與經營管理工作，俾以服務大阿里山地區之遊客人潮，並希望能藉由遊憩品質提升，協助地方觀光產業的蓬勃發展。",
-                "itinerary_second_day_pm_title": "奮起湖風景區",
-                "itinerary_second_day_pm_content": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
+                "itinerary_second_day_pm_title": "頂湖自然生態園區",
+                "itinerary_second_day_pm_content": "頂湖位於石棹旁，是阿里山國家風景管理處近年規劃生態旅遊的重要據點之一。\n\n頂湖環湖步道擁有孟宗竹林步道、天然原始林棧道、生痕化石等，適合1到2小時的健行和漫步。由台18線66K附近，在迷糊步道前方一百公尺處，左轉約4公里上坡後轉入頂湖，眼前視野開闊，經常可見當地農人在茶園裡耕作，山嵐在層層山巒間。",
+                "itinerary_second_day_pm_title2": "奮起湖風景區",
+                "itinerary_second_day_pm_content2": "奮起湖位於嘉義縣竹崎鄉中和村，海拔約1,400公尺，因東、西、北三面環山，中間低平，形如畚箕，故舊稱畚箕湖。由於此區位於阿里山森林鐵路之中點，早年以老街、便當和四方竹聞名。"
               }
             ],
             "itinerary_content": "阿里山森林鐵路,阿里山森林遊樂園,阿里山國家風景區-觸口遊客中心,奮起湖風景區",
@@ -1462,92 +1466,30 @@
             "imageUrl": "./products/pic-tree-2.jpg",
             "imagesUrl": [
               "./products/pic-tree-2.jpg",
+              "./products/pic-tree-3.jpg",
               "./img/pic-tree.jpg",
               "./products/pic-tree-1.jpg",
+              "./products/pic-tree-5.jpg",
               "./products/pic-train.jpg"
             ],
-            "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
-            "content": "Day1 早上 阿里山森林鐵路;Day1 下午 阿里山森林遊樂園;\nDay2 早上 阿里山國家風景區-觸口遊客中心;Day2 下午 奮起湖風景區",
+            "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。天長和地久兩座吊橋建於日治時期昭和十二年，有情人終成眷屬的傳說阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
+            "content": "Day1 早上 阿里山森林鐵路;下午1 觸口天長地久橋;下午2 阿里山森林遊樂園;\nDay2 早上 阿里山觸口遊客中心;下午1 頂湖自然生態園區;下午2 奮起湖風景區",
             "creationDate": "2024-02-01",
-            "startDate": "2024-02-01",
-            "endDate": "2024-03-31",
-            "goStartDate": "2024-04-15",
+            "startDate": "2024-04-01",
+            "endDate": "2024-05-31",
+            "goStartDate": "2024-06-15",
             "goEndDate": "2024-04-16",
             "max_travelers": 15
           }
         }
       ],
-      "total": 6380,
-      "final_total": 6380,
+      "total": 19140,
+      "final_total": 19140,
       "status": true,
       "userId": 5,
       "orderStatus": false,
-      "id": 14,
-      "orderId": 13
-    },
-    {
-      "data": [
-        {
-          "productId": "ymbfYtq",
-          "qty": 2,
-          "price": 7500,
-          "total": 15000,
-          "userId": 5,
-          "final_total": 15000,
-          "id": 3,
-          "product": {
-            "itinerary_data": [
-              {
-                "first_day_title": "第一天",
-                "itinerary_first_day_am_title": "大崗山自然生態區",
-                "itinerary_first_day_am_content": "生態園區面積八十公頃，園區中有多條曲折通幽的林蔭步道連結，以造形各異的美麗涼亭、平台提供遊客休憩賞景。挺拔的綠竹、相思樹林、羊蹄甲、櫻花道、黃金風鈴木…在步道旁依四季時序開放，沿途觀賞大崗山生態之美，荷花點點的生態池則是觀察鳥類及水中生物最佳的地點。",
-                "itinerary_first_day_pm_title": "石母乳與一線天",
-                "itinerary_first_day_pm_content": "山區的石灰岩壁千百年來經過岩融過程，岩壁的紋理如同飛瀑流動，景緻奇幻，碧水洞後的石灰岩沈積物經過漫長歲月形成鐘乳石，終年滴水不斷的奇特景觀被當地人稱之為石母乳。\n\n走過石母乳旁的山中棧道，像劈裂天地般的高達二至三公尺的峽谷聳立眼前，頗有大自然開天闢地的壯闊感。相傳在明朝年間大崗山忽然發出「山鳴」，山脊自南向北龜裂，形成這道長約百米的山溝，由於入內仰望可見天空自成一線，故名「一線天」。"
-              },
-              {
-                "second_day_title": "第二天",
-                "itinerary_second_day_am_title": "田寮月世界",
-                "itinerary_second_day_am_content": "田寮「月世界」特殊景觀在地理學上稱為「惡地」，是由於地殼的「回春作用」，經年累月的經由雨水與河水強烈侵蝕，將泥沙堆積在泥岩上，地層變動後，泥沙更與泥岩混合再經由風化、沉積作用，形成今日地貌，僅適於耐旱、耐鹽的淺根植物（如：箭竹）、濱海植物生長。",
-                "itinerary_second_day_pm_title": "泥火山小滾水奇景",
-                "itinerary_second_day_pm_content": "從田寮到旗山台28線沿路除了月世界景觀，還有大小不等的二十多個泥火山，常呈現間歇性的噴發現象，噴發的規模則視地底天然氣與泥漿的累積壓力而定，噴發後的泥流堆積地區，經降雨沖蝕，產生一些特殊的小地形，其中大滾水與小滾水是觀察泥火山最方便的地點。"
-              }
-            ],
-            "imagesUrl": [
-              "./products/pic-mountain-3.jpg",
-              "./products/pic-mountain-2.jpg",
-              "./products/pic-mountain-1.jpg",
-              "./products/pic-mountain-4.jpg"
-            ],
-            "title": "大岡山、月世界雙日遊",
-            "tag_1": "雙日遊",
-            "category": "高雄",
-            "unit": "套",
-            "id": "ymbfYtq",
-            "tag_2": "親子體驗",
-            "origin_price": 8000,
-            "price": 7500,
-            "day_num": 2,
-            "is_enabled": 1,
-            "content": "Day1 早上 大崗山自然生態區;Day1 下午 石母乳與一線天;\nDay2 早上 田寮月世界;Day2 下午 泥火山小滾水奇景;",
-            "description": "大崗山生態區面積80公頃，擁有曲折通幽的步道、美麗涼亭、生態池和石母乳景觀。石母乳與一線天展現石灰岩的奇幻紋理，石母乳為終年滴水景觀。大崗山一線天形成於明朝，是壯闊的天然峽谷。田寮月世界為地理學上的「惡地」，由泥沙與泥岩混合而成。從田寮到旗山台28線沿路有大小泥火山，展現間歇性的噴發現象，特殊小地形如大滾水與小滾水。",
-            "imageUrl": "./products/pic-mountain-1.jpg",
-            "creationDate": "2024-03-10",
-            "startDate": "2024-03-10",
-            "endDate": "2024-05-10",
-            "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E9%AB%98%E9%9B%84/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E3%80%81%E6%9C%88%E4%B8%96%E7%95%8C%E9%9B%99%E6%97%A5%E9%81%8A",
-            "max_travelers": 10,
-            "goStartDate": "2024-05-20",
-            "goEndDate": "2024-05-21"
-          }
-        }
-      ],
-      "total": 15000,
-      "final_total": 15000,
-      "status": true,
-      "userId": 5,
-      "orderStatus": false,
-      "id": 15,
-      "orderId": 14
+      "id": 16,
+      "orderId": 15
     }
   ],
   "orders": [
@@ -1662,12 +1604,13 @@
         "payMethod": "帳號匯款"
       },
       "id": 9,
-      "status": false,
-      "billStatus": false,
+      "status": true,
+      "billStatus": true,
       "checkDataStatus": true
     },
     {
       "user": {
+        "status": true,
         "create_at": "2024-03-20",
         "name": "Tiger",
         "email": "tiger@gmail.com",
@@ -1681,13 +1624,12 @@
         "passport": "A123456789",
         "memberId": "E123456789",
         "appellation": "female",
-        "status": true,
         "payMethod": "帳號匯款"
       },
       "id": 10,
       "status": false,
-      "billStatus": false,
-      "checkDataStatus": false
+      "billStatus": true,
+      "checkDataStatus": true
     },
     {
       "user": {
@@ -1709,7 +1651,7 @@
       },
       "id": 11,
       "status": false,
-      "billStatus": true,
+      "billStatus": false,
       "checkDataStatus": true
     },
     {
@@ -1729,52 +1671,29 @@
         "cartDataId": 13
       },
       "id": 12,
-      "billStatus": true,
-      "checkDataStatus": true,
-      "status": true
+      "billStatus": false,
+      "checkDataStatus": false,
+      "status": false
     },
     {
       "user": {
-        "create_at": "2024-03-31T15:03:43.274Z",
-        "name": "tiget",
+        "create_at": "2024-05-04T13:12:17.406Z",
+        "name": "tiger",
         "email": "tiger@gmail.com",
-        "tel": "0912345678",
-        "address": "台北市信義區忠孝東路",
-        "birthday": "2006-01-01",
-        "comment": "",
+        "tel": "0914567892",
+        "address": "台北市信義區忠孝東路走九遍",
+        "birthday": "2006-01-05",
+        "comment": "不吃辣",
         "shippingMethod": "電子郵件",
         "userId": 5,
-        "cartDataId": 14,
+        "cartDataId": 16,
         "passport": "123456789",
         "memberId": "A123456789",
-        "appellation": "",
+        "appellation": "female",
         "status": false,
         "payMethod": "帳號匯款"
       },
-      "id": 13,
-      "status": false,
-      "billStatus": false,
-      "checkDataStatus": false
-    },
-    {
-      "user": {
-        "create_at": "2024-03-31T17:27:30.035Z",
-        "name": "cat Dong",
-        "email": "tiger@gmail.com",
-        "tel": "0911234567",
-        "address": "台北市信義區忠孝東路走九遍",
-        "birthday": "2006-01-05",
-        "comment": "",
-        "shippingMethod": "郵寄",
-        "userId": 5,
-        "cartDataId": 15,
-        "passport": "123456782",
-        "memberId": "B123456780",
-        "appellation": "female",
-        "status": false,
-        "payMethod": "信用卡付款"
-      },
-      "id": 14,
+      "id": 15,
       "status": false,
       "billStatus": false,
       "checkDataStatus": false
