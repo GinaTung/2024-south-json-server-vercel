@@ -322,10 +322,10 @@
       "description": "阿里山森林鐵路爬升自嘉義30公尺至2,216公尺，穿越47隧道、72橋，欣賞不同植物與山谷。天長和地久兩座吊橋建於日治時期昭和十二年，有情人終成眷屬的傳說阿里山遊樂園海拔2,216公尺，以五奇聞名，有鄒族文化。風景區觸口遊客中心致力發展觀光，服務大阿里山。奮起湖海拔1,400公尺，位於阿里山森林鐵路中點，以老街、便當和四方竹聞名。",
       "content": "Day1 早上 阿里山森林鐵路;下午1 觸口天長地久橋;下午2 阿里山森林遊樂園;\nDay2 早上 阿里山觸口遊客中心;下午1 頂湖自然生態園區;下午2 奮起湖風景區",
       "creationDate": "2024-02-01",
-      "startDate": "2024-04-01",
-      "endDate": "2024-05-31",
-      "goStartDate": "2024-06-15",
-      "goEndDate": "2024-04-16",
+      "startDate": "2024-06-19",
+      "endDate": "2024-09-06",
+      "goStartDate": "2024-09-20",
+      "goEndDate": "2024-09-21",
       "max_travelers": 15
     },
     {
@@ -396,11 +396,11 @@
       "id": "KvBuohr",
       "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。棧貳庫以嶄新面貌，透過文創、展覽、餐飲的複合經營，復甦了港濱歷史空間。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
       "creationDate": "2024-02-12",
-      "startDate": "2024-04-08",
-      "endDate": "2024-05-26",
+      "startDate": "2024-06-17",
+      "endDate": "2024-08-11",
       "max_travelers": 10,
-      "goStartDate": "2024-05-29",
-      "goEndDate": "2024-05-29"
+      "goStartDate": "2024-08-25",
+      "goEndDate": "2024-08-25"
     },
     {
       "itinerary_data": [
@@ -556,12 +556,12 @@
       "is_enabled": 1,
       "imageUrl": "./products/pic-lake.jpg",
       "creationDate": "2024-03-04",
-      "startDate": "2024-03-04",
-      "endDate": "2024-05-08",
+      "startDate": "2024-07-01",
+      "endDate": "2024-09-06",
       "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E5%8F%B0%E5%8D%97/%E8%87%BA%E5%8D%97%E4%B8%83%E8%82%A1%E5%8C%97%E9%96%80%E9%9B%99%E6%97%A5%E9%81%8A",
       "max_travelers": 10,
-      "goStartDate": "2024-05-15",
-      "goEndDate": "2024-05-16"
+      "goStartDate": "2024-09-27",
+      "goEndDate": "2024-09-28"
     },
     {
       "itinerary_data": [
@@ -643,12 +643,12 @@
       "description": "大崗山生態區面積80公頃，擁有曲折通幽的步道、美麗涼亭、生態池和石母乳景觀。石母乳與一線天展現石灰岩的奇幻紋理，石母乳為終年滴水景觀。大崗山一線天形成於明朝，是壯闊的天然峽谷。田寮月世界為地理學上的「惡地」，由泥沙與泥岩混合而成。從田寮到旗山台28線沿路有大小泥火山，展現間歇性的噴發現象，特殊小地形如大滾水與小滾水。",
       "imageUrl": "./products/pic-mountain-1.jpg",
       "creationDate": "2024-03-10",
-      "startDate": "2024-03-10",
-      "endDate": "2024-05-10",
+      "startDate": "2024-07-08",
+      "endDate": "2024-08-16",
       "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E9%AB%98%E9%9B%84/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E3%80%81%E6%9C%88%E4%B8%96%E7%95%8C%E9%9B%99%E6%97%A5%E9%81%8A",
       "max_travelers": 10,
-      "goStartDate": "2024-05-20",
-      "goEndDate": "2024-05-21"
+      "goStartDate": "2024-08-26",
+      "goEndDate": "2024-05-27"
     },
     {
       "itinerary_data": [
@@ -683,10 +683,10 @@
       "link": "https://ginatung.github.io/2024-southerntravelwebsite-fin/#/TouristPackage/%E9%AB%98%E9%9B%84/%E9%BC%93%E9%B9%BD%E5%9A%90%E7%BE%8E%E5%91%B3",
       "max_travelers": 5,
       "creationDate": "2024-03-21",
-      "startDate": "2024-03-21",
-      "endDate": "2024-05-01",
-      "goStartDate": "2024-05-06",
-      "goEndDate": "2024-05-06"
+      "startDate": "2024-06-21",
+      "endDate": "2024-08-15",
+      "goStartDate": "2024-08-23",
+      "goEndDate": "2024-08-23"
     },
     {
       "itinerary_data": [
