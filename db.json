@@ -360,10 +360,10 @@
       "tag_2": "古蹟寺廟",
       "max_travelers": 12,
       "creationDate": "2024-03-15",
-      "startDate": "2024-03-31",
-      "endDate": "2024-05-07",
-      "goStartDate": "2024-05-18",
-      "goEndDate": "2024-05-19"
+      "startDate": "2024-12-01",
+      "endDate": "2025-03-15",
+      "goStartDate": "2025-03-30",
+      "goEndDate": "2025-03-31"
     },
     {
       "itinerary_data": [
@@ -396,11 +396,11 @@
       "id": "KvBuohr",
       "description": "壽山動物園透過植栽柔化邊界，設置空中廊道，讓遊客隱身其中觀看動物互動，進入山屋或動物觀察廊道，透過大面積落地玻璃，近距離體驗動物的生活。棧貳庫以嶄新面貌，透過文創、展覽、餐飲的複合經營，復甦了港濱歷史空間。旗津黃金海韻的海珍珠，高10公尺、寬16公尺、深9公尺，以金色為主，是亞洲最大貝殼裝置藝術。",
       "creationDate": "2024-02-12",
-      "startDate": "2024-06-17",
-      "endDate": "2024-08-11",
+      "startDate": "2025-01-07",
+      "endDate": "2025-02-21",
       "max_travelers": 10,
-      "goStartDate": "2024-08-25",
-      "goEndDate": "2024-08-25"
+      "goStartDate": "2025-02-28",
+      "goEndDate": "2025-02-28"
     },
     {
       "itinerary_data": [
@@ -507,10 +507,10 @@
       "day_num": 1,
       "imageUrl": "./products/pic-museum-tai.jpg",
       "creationDate": "2024-03-01",
-      "startDate": "2024-03-01",
-      "endDate": "2024-04-07",
-      "goStartDate": "2024-04-24",
-      "goEndDate": "2024-04-25",
+      "startDate": "2025-01-20",
+      "endDate": "2025-04-10",
+      "goStartDate": "2025-04-24",
+      "goEndDate": "2025-04-24",
       "max_travelers": 10
     },
     {
